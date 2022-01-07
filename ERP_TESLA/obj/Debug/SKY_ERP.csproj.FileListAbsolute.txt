@@ -1,0 +1,1314 @@
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\ERP_TESLA\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\ERP_PROJECT\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+\\192.168.0.28\Users\Public\수업자료\3조\휴대폰제조업체\프로그램\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+\\192.168.0.28\Users\Public\수업자료\3조\휴대폰제조업체\프로그램\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+\\192.168.0.28\Users\Public\수업자료\3조\휴대폰제조업체\프로그램\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+\\192.168.0.28\Users\Public\수업자료\3조\휴대폰제조업체\프로그램\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1223\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1223-2\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1224\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE1230-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.BOMUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Common.Employee.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.CompanyUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.MaterialUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.OperationUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.WarehouseUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0102\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Common.Employee.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.BOMUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.CompanyUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.MaterialUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.OperationUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.WarehouseUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0103-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Common.Employee.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.BOMUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.CompanyUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.MaterialUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.OperationUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.WarehouseUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\SKY_ERP\SKY_ERP_TEMPLATE0104-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe.config
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Devart.Data.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.barcodes.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.commons.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.font_asian.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.forms.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.io.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.kernel.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.layout.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.pdfa.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.sign.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.svg.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itextsharp.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\SunnyUI.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\SunnyUI.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Buffers.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Memory.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Text.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.barcodes.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.commons.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.font_asian.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.forms.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.io.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.kernel.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.layout.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.pdfa.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.sign.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.styledxmlparser.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itext.svg.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\itextsharp.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Buffers.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Memory.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Text.Json.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.ValueTuple.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.AssemblyReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.ResolveComReference.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Common.Employee.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostAnalysisUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.CostCalculUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Cost.ManuCostUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.EmailUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.AttendanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.EmployeeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.HR.PayrollUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.Properties.Resources.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.Main.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.MRPUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.OutputReqUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.PerformanceUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.ProductPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.WorkOrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.ContractUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Sales.SalesPlanUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.BOMUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.CompanyUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.MaterialUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.OperationUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Standard.WarehouseUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InOutList.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.InputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OrderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.OutputUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.PurchaseMgtUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.StockUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.GenerateResource.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CoreCompileInputs.cache
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\SKY_ERP.csproj.CopyComplete
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.exe
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.pdb
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.SplashUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.LoginUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.NoticeMRP.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.Production.NoticeOutputReq.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.QRCodeUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\QrCodeGenerator.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\QRCoder.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\QrCodeGenerator.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Babel.Licensing.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\DotNetZip.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronBarCode.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronPdf.Pdfium.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronPdf.Pdfium.Domain.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Analytics.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Common.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Deployment.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.IronConfigurationManager.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Licenses.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Logger.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronSoftware.Standard.Aforge.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\NativeLibraryLoader.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\PdfSharp.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\zxing.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\zxing.presentation.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\IronBarCode.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Video.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Video.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\zxing.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\zxing.presentation.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\obj\Debug\ERP_TESLA.UI.WarePurchase.QRCodeReaderUI.resources
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Controls.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Imaging.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Math.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Controls.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Imaging.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\AForge.Math.xml
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\GenCode128.dll
+C:\Users\a4908\OneDrive\바탕 화면\work\SKY_ERP\SKY_ERP_TEMPLATE0105-이현석\ERP_TESLA\bin\Debug\System.Drawing.Common.dll

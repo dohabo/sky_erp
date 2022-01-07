@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB2785F3-2031-4F73-9CD2-7ED82DF4E66D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ERP_TESLA</RootNamespace>
+    <AssemblyName>ERP_TESLA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Controls.2.2.5\lib\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Babel.Licensing, Version=2.8.8.0, Culture=neutral, PublicKeyToken=138d17b5bd621ab7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\Babel.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="BitMiracle.LibTiff.NET, Version=2.4.638.0, Culture=neutral, PublicKeyToken=53879b3e20e7a7d6, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\BitMiracle.LibTiff.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.10.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Devart.Data, Version=5.0.2834.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL">
+      <HintPath>..\packages\Devart.Data.5.0.2834\lib\netstandard2.0\Devart.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Devart.Data.Oracle, Version=9.15.1410.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL">
+      <HintPath>..\packages\Devart.Data.Oracle.9.15.1410\lib\netstandard2.0\Devart.Data.Oracle.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip, Version=1.15.0.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="GenCode128, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GenCode128.2.0.0\lib\netstandard2.0\GenCode128.dll</HintPath>
+    </Reference>
+    <Reference Include="IronBarCode, Version=2021.12.0.21, Culture=neutral, PublicKeyToken=b971bb3971bdf306, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronBarCode.dll</HintPath>
+    </Reference>
+    <Reference Include="IronPdf.Pdfium, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronPdf.Pdfium.dll</HintPath>
+    </Reference>
+    <Reference Include="IronPdf.Pdfium.Domain, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=94e1c31412563c75, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronPdf.Pdfium.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Analytics, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Common, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Deployment, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.IronConfigurationManager, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.IronConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Licenses, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Licenses.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Logger, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSoftware.Standard.Aforge, Version=1.0.0.4471, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\IronSoftware.Standard.Aforge.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.commons.7.2.0\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.font_asian, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.font-asian.7.2.0\lib\net461\itext.font_asian.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=7.2.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.0\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Registry, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Registry.4.5.0\lib\net461\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="NativeLibraryLoader, Version=1.0.12.0, Culture=neutral, PublicKeyToken=212d70e9efeae4c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\NativeLibraryLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.4.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.51.5185.0, Culture=neutral, PublicKeyToken=94e1c31412563c75, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2021.12.21\lib\net40\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCodeEncoderLibrary, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\QRCodeEncoderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="QrCodeGenerator, Version=1.6.0.0, Culture=neutral, PublicKeyToken=6aa6bd7a159d47c2, processorArchitecture=MSIL">
+      <HintPath>..\packages\Net.Codecrete.QrCodeGenerator.2.0.1\lib\netstandard2.0\QrCodeGenerator.dll</HintPath>
+    </Reference>
+    <Reference Include="QRCoder, Version=1.4.3.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI, Version=3.0.9.0, Culture=neutral, PublicKeyToken=27d7d2e821d97aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.3.0.9\lib\net472\SunnyUI.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI.Common, Version=3.0.9.0, Culture=neutral, PublicKeyToken=5a271fb7ba597231, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.Common.3.0.9\lib\net472\SunnyUI.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.PerformanceCounter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.PerformanceCounter.4.5.0\lib\net461\System.Diagnostics.PerformanceCounter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.5.0.2\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.AccessControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.4.5.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.4.5.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.CodePages, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encoding.CodePages.4.5.0\lib\net461\System.Text.Encoding.CodePages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.1\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode, Version=1.0.4310.24318, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.16.7.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.7\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.7.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.7\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASS\HR\Employee.cs" />
+    <Compile Include="CLASS\Production\OutputReq.cs" />
+    <Compile Include="CLASS\Production\PPlan.cs" />
+    <Compile Include="CLASS\Standard\BOM.cs" />
+    <Compile Include="CLASS\Standard\Company.cs" />
+    <Compile Include="CLASS\Standard\Cost.cs" />
+    <Compile Include="CLASS\Standard\Material.cs" />
+    <Compile Include="CLASS\Standard\Operation.cs" />
+    <Compile Include="CLASS\Standard\Warehouse.cs" />
+    <Compile Include="CLASS\WarePurchase\Buying.cs" />
+    <Compile Include="CLASS\WarePurchase\InOut.cs" />
+    <Compile Include="CLASS\WarePurchase\Input.cs" />
+    <Compile Include="CLASS\WarePurchase\Output.cs" />
+    <Compile Include="CLASS\WarePurchase\POrder.cs" />
+    <Compile Include="CLASS\WarePurchase\POrderDetail.cs" />
+    <Compile Include="CLASS\WarePurchase\Stock.cs" />
+    <Compile Include="CLASS\WarePurchase\TPOrder.cs" />
+    <Compile Include="DAO\OraMgr.cs" />
+    <Compile Include="UI\Common\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\Employee.designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cost\CostAnalysisUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Cost\CostAnalysisUI.Designer.cs">
+      <DependentUpon>CostAnalysisUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cost\CostCalculUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Cost\CostCalculUI.Designer.cs">
+      <DependentUpon>CostCalculUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cost\ManuCostUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Cost\ManuCostUI.Designer.cs">
+      <DependentUpon>ManuCostUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmailUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmailUI.Designer.cs">
+      <DependentUpon>EmailUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\HR\AttendanceUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\HR\AttendanceUI.Designer.cs">
+      <DependentUpon>AttendanceUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\HR\EmployeeUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\HR\EmployeeUI.Designer.cs">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\HR\PayrollUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\HR\PayrollUI.Designer.cs">
+      <DependentUpon>PayrollUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\LoginUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LoginUI.Designer.cs">
+      <DependentUpon>LoginUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Main.designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\MRPUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Production\MRPUI.designer.cs">
+      <DependentUpon>MRPUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\NoticeMRP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Production\NoticeMRP.Designer.cs">
+      <DependentUpon>NoticeMRP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\NoticeOutputReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Production\NoticeOutputReq.Designer.cs">
+      <DependentUpon>NoticeOutputReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\OutputReqUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Production\OutputReqUI.designer.cs">
+      <DependentUpon>OutputReqUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\PerformanceUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Production\PerformanceUI.designer.cs">
+      <DependentUpon>PerformanceUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\ProductPlanUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Production\ProductPlanUI.designer.cs">
+      <DependentUpon>ProductPlanUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Production\WorkOrderUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Production\WorkOrderUI.designer.cs">
+      <DependentUpon>WorkOrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sales\ContractUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Sales\ContractUI.Designer.cs">
+      <DependentUpon>ContractUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sales\SalesMgtUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Sales\SalesMgtUI.Designer.cs">
+      <DependentUpon>SalesMgtUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sales\SalesPlanUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Sales\SalesPlanUI.Designer.cs">
+      <DependentUpon>SalesPlanUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SplashUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SplashUI.Designer.cs">
+      <DependentUpon>SplashUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Standard\BOMUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Standard\BOMUI.designer.cs">
+      <DependentUpon>BOMUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Standard\CompanyUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Standard\CompanyUI.designer.cs">
+      <DependentUpon>CompanyUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Standard\MaterialUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Standard\MaterialUI.designer.cs">
+      <DependentUpon>MaterialUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Standard\OperationUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Standard\OperationUI.designer.cs">
+      <DependentUpon>OperationUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Standard\WarehouseUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Standard\WarehouseUI.designer.cs">
+      <DependentUpon>WarehouseUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\InOutList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\InOutList.Designer.cs">
+      <DependentUpon>InOutList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\InputUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\InputUI.Designer.cs">
+      <DependentUpon>InputUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\OrderUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\OrderUI.Designer.cs">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\OutputUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\OutputUI.Designer.cs">
+      <DependentUpon>OutputUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\PurchaseMgtUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\PurchaseMgtUI.Designer.cs">
+      <DependentUpon>PurchaseMgtUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\QRCodeReaderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\QRCodeReaderUI.Designer.cs">
+      <DependentUpon>QRCodeReaderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\QRCodeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\QRCodeUI.Designer.cs">
+      <DependentUpon>QRCodeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WarePurchase\StockUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WarePurchase\StockUI.Designer.cs">
+      <DependentUpon>StockUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\Method\Date.cs" />
+    <Compile Include="Utility\Fuction\Email.cs" />
+    <Compile Include="Utility\Fuction\ExcelFunc.cs" />
+    <Compile Include="Utility\Method\GridView.cs" />
+    <Compile Include="Utility\Method\MessageBox_.cs" />
+    <Compile Include="Utility\Method\TextBox_.cs" />
+    <Compile Include="Utility\Print\Printing.cs" />
+    <EmbeddedResource Include="UI\Common\Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cost\CostAnalysisUI.resx">
+      <DependentUpon>CostAnalysisUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cost\CostCalculUI.resx">
+      <DependentUpon>CostCalculUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cost\ManuCostUI.resx">
+      <DependentUpon>ManuCostUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmailUI.resx">
+      <DependentUpon>EmailUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HR\AttendanceUI.resx">
+      <DependentUpon>AttendanceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HR\EmployeeUI.resx">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HR\PayrollUI.resx">
+      <DependentUpon>PayrollUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\LoginUI.resx">
+      <DependentUpon>LoginUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\MRPUI.resx">
+      <DependentUpon>MRPUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\NoticeMRP.resx">
+      <DependentUpon>NoticeMRP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\NoticeOutputReq.resx">
+      <DependentUpon>NoticeOutputReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\OutputReqUI.resx">
+      <DependentUpon>OutputReqUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\PerformanceUI.resx">
+      <DependentUpon>PerformanceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\ProductPlanUI.resx">
+      <DependentUpon>ProductPlanUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Production\WorkOrderUI.resx">
+      <DependentUpon>WorkOrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Sales\ContractUI.resx">
+      <DependentUpon>ContractUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Sales\SalesMgtUI.resx">
+      <DependentUpon>SalesMgtUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Sales\SalesPlanUI.resx">
+      <DependentUpon>SalesPlanUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SplashUI.resx">
+      <DependentUpon>SplashUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Standard\BOMUI.resx">
+      <DependentUpon>BOMUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Standard\CompanyUI.resx">
+      <DependentUpon>CompanyUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Standard\MaterialUI.resx">
+      <DependentUpon>MaterialUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Standard\OperationUI.resx">
+      <DependentUpon>OperationUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Standard\WarehouseUI.resx">
+      <DependentUpon>WarehouseUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\InOutList.resx">
+      <DependentUpon>InOutList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\InputUI.resx">
+      <DependentUpon>InputUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\OrderUI.resx">
+      <DependentUpon>OrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\OutputUI.resx">
+      <DependentUpon>OutputUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\PurchaseMgtUI.resx">
+      <DependentUpon>PurchaseMgtUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\QRCodeReaderUI.resx">
+      <DependentUpon>QRCodeReaderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\QRCodeUI.resx">
+      <DependentUpon>QRCodeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WarePurchase\StockUI.resx">
+      <DependentUpon>StockUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city-g13254e1fa_640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\stock-vector-erp-enterprise-resource-planning-business-and-modern-technology-concept-1833732166.jpg" />
+    <None Include="Resources\stock-vector-erp-enterprise-resource-planning-business-and-modern-technology-concept-18337321661.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
