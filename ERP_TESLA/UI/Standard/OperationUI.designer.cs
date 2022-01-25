@@ -44,12 +44,14 @@ namespace ERP_TESLA.UI.Standard
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label1 = new System.Windows.Forms.Label();
             this.tboxoprName = new Sunny.UI.UITextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.tboxoprCode = new Sunny.UI.UITextBox();
             this.label14 = new System.Windows.Forms.Label();
-            this.tboxoprDescription = new Sunny.UI.UITextBox();
+            this.tboxmanHour = new Sunny.UI.UITextBox();
             this.label13 = new System.Windows.Forms.Label();
+            this.tboxoprDescription = new Sunny.UI.UITextBox();
             this.btnOperationUpdate = new Sunny.UI.UISymbolButton();
             this.btnOperationAdd = new Sunny.UI.UISymbolButton();
             this.btnOperationDelete = new Sunny.UI.UISymbolButton();
@@ -58,6 +60,7 @@ namespace ERP_TESLA.UI.Standard
             this.dtgviewOpeartionList = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colmanhour = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.uiMarkLabel2 = new Sunny.UI.UIMarkLabel();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
@@ -146,20 +149,35 @@ namespace ERP_TESLA.UI.Standard
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 44F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56F));
+            this.tableLayoutPanel1.Controls.Add(this.label1, 0, 3);
             this.tableLayoutPanel1.Controls.Add(this.tboxoprName, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.label12, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.tboxoprCode, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.label14, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tboxoprDescription, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.tboxmanHour, 1, 2);
             this.tableLayoutPanel1.Controls.Add(this.label13, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.tboxoprDescription, 1, 3);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(488, 40);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 3;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 14.35132F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 14.35132F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 71.29736F));
+            this.tableLayoutPanel1.RowCount = 4;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.4228F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.4228F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42138F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 53.73302F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(477, 384);
             this.tableLayoutPanel1.TabIndex = 95;
+            // 
+            // label1
+            // 
+            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label1.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label1.Location = new System.Drawing.Point(3, 180);
+            this.label1.Margin = new System.Windows.Forms.Padding(0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(205, 201);
+            this.label1.TabIndex = 105;
+            this.label1.Text = "설명";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // tboxoprName
             // 
@@ -168,14 +186,14 @@ namespace ERP_TESLA.UI.Standard
             this.tboxoprName.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tboxoprName.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.tboxoprName.IsScaled = false;
-            this.tboxoprName.Location = new System.Drawing.Point(215, 64);
+            this.tboxoprName.Location = new System.Drawing.Point(215, 67);
             this.tboxoprName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.tboxoprName.Maximum = 2147483647D;
             this.tboxoprName.Minimum = -2147483648D;
             this.tboxoprName.MinimumSize = new System.Drawing.Size(1, 16);
             this.tboxoprName.Name = "tboxoprName";
             this.tboxoprName.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxoprName.Size = new System.Drawing.Size(255, 43);
+            this.tboxoprName.Size = new System.Drawing.Size(255, 46);
             this.tboxoprName.Style = Sunny.UI.UIStyle.Custom;
             this.tboxoprName.TabIndex = 97;
             this.tboxoprName.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
@@ -184,12 +202,12 @@ namespace ERP_TESLA.UI.Standard
             // 
             this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label12.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label12.Location = new System.Drawing.Point(3, 115);
+            this.label12.Location = new System.Drawing.Point(3, 121);
             this.label12.Margin = new System.Windows.Forms.Padding(0);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(205, 266);
+            this.label12.Size = new System.Drawing.Size(205, 56);
             this.label12.TabIndex = 94;
-            this.label12.Text = "설명";
+            this.label12.Text = "공수";
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // tboxoprCode
@@ -206,7 +224,7 @@ namespace ERP_TESLA.UI.Standard
             this.tboxoprCode.MinimumSize = new System.Drawing.Size(1, 16);
             this.tboxoprCode.Name = "tboxoprCode";
             this.tboxoprCode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxoprCode.Size = new System.Drawing.Size(255, 43);
+            this.tboxoprCode.Size = new System.Drawing.Size(255, 46);
             this.tboxoprCode.Style = Sunny.UI.UIStyle.Custom;
             this.tboxoprCode.TabIndex = 89;
             this.tboxoprCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
@@ -215,33 +233,32 @@ namespace ERP_TESLA.UI.Standard
             // 
             this.label14.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label14.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label14.Location = new System.Drawing.Point(3, 59);
+            this.label14.Location = new System.Drawing.Point(3, 62);
             this.label14.Margin = new System.Windows.Forms.Padding(0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(205, 53);
+            this.label14.Size = new System.Drawing.Size(205, 56);
             this.label14.TabIndex = 93;
             this.label14.Text = "공정명";
             this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // tboxoprDescription
+            // tboxmanHour
             // 
-            this.tboxoprDescription.ButtonSymbol = 61761;
-            this.tboxoprDescription.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.tboxoprDescription.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tboxoprDescription.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.tboxoprDescription.IsScaled = false;
-            this.tboxoprDescription.Location = new System.Drawing.Point(215, 120);
-            this.tboxoprDescription.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tboxoprDescription.Maximum = 2147483647D;
-            this.tboxoprDescription.Minimum = -2147483648D;
-            this.tboxoprDescription.MinimumSize = new System.Drawing.Size(1, 16);
-            this.tboxoprDescription.Multiline = true;
-            this.tboxoprDescription.Name = "tboxoprDescription";
-            this.tboxoprDescription.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxoprDescription.Size = new System.Drawing.Size(255, 256);
-            this.tboxoprDescription.Style = Sunny.UI.UIStyle.Custom;
-            this.tboxoprDescription.TabIndex = 104;
-            this.tboxoprDescription.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tboxmanHour.ButtonSymbol = 61761;
+            this.tboxmanHour.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tboxmanHour.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tboxmanHour.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.tboxmanHour.IsScaled = false;
+            this.tboxmanHour.Location = new System.Drawing.Point(215, 126);
+            this.tboxmanHour.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tboxmanHour.Maximum = 2147483647D;
+            this.tboxmanHour.Minimum = -2147483648D;
+            this.tboxmanHour.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tboxmanHour.Name = "tboxmanHour";
+            this.tboxmanHour.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.tboxmanHour.Size = new System.Drawing.Size(255, 46);
+            this.tboxmanHour.Style = Sunny.UI.UIStyle.Custom;
+            this.tboxmanHour.TabIndex = 104;
+            this.tboxmanHour.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label13
             // 
@@ -250,10 +267,30 @@ namespace ERP_TESLA.UI.Standard
             this.label13.Location = new System.Drawing.Point(3, 3);
             this.label13.Margin = new System.Windows.Forms.Padding(0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(205, 53);
+            this.label13.Size = new System.Drawing.Size(205, 56);
             this.label13.TabIndex = 79;
             this.label13.Text = "공정번호";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // tboxoprDescription
+            // 
+            this.tboxoprDescription.ButtonSymbol = 61761;
+            this.tboxoprDescription.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tboxoprDescription.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tboxoprDescription.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.tboxoprDescription.IsScaled = false;
+            this.tboxoprDescription.Location = new System.Drawing.Point(215, 185);
+            this.tboxoprDescription.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tboxoprDescription.Maximum = 2147483647D;
+            this.tboxoprDescription.Minimum = -2147483648D;
+            this.tboxoprDescription.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tboxoprDescription.Multiline = true;
+            this.tboxoprDescription.Name = "tboxoprDescription";
+            this.tboxoprDescription.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.tboxoprDescription.Size = new System.Drawing.Size(255, 191);
+            this.tboxoprDescription.Style = Sunny.UI.UIStyle.Custom;
+            this.tboxoprDescription.TabIndex = 106;
+            this.tboxoprDescription.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btnOperationUpdate
             // 
@@ -355,6 +392,7 @@ namespace ERP_TESLA.UI.Standard
             this.dtgviewOpeartionList.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.dataGridViewTextBoxColumn1,
             this.dataGridViewTextBoxColumn2,
+            this.colmanhour,
             this.dataGridViewTextBoxColumn3});
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
@@ -388,13 +426,17 @@ namespace ERP_TESLA.UI.Standard
             // 
             this.dataGridViewTextBoxColumn1.HeaderText = "공정번호";
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.Width = 120;
             // 
             // dataGridViewTextBoxColumn2
             // 
             this.dataGridViewTextBoxColumn2.HeaderText = "공정명";
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             this.dataGridViewTextBoxColumn2.Width = 120;
+            // 
+            // colmanhour
+            // 
+            this.colmanhour.HeaderText = "공수";
+            this.colmanhour.Name = "colmanhour";
             // 
             // dataGridViewTextBoxColumn3
             // 
@@ -487,7 +529,7 @@ namespace ERP_TESLA.UI.Standard
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 50F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 70F));
             this.tableLayoutPanel2.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.tboxoperCodeSearch, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.btnoperCodeSearch, 2, 0);
@@ -504,7 +546,7 @@ namespace ERP_TESLA.UI.Standard
             this.label3.Location = new System.Drawing.Point(2, 2);
             this.label3.Margin = new System.Windows.Forms.Padding(0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(89, 31);
+            this.label3.Size = new System.Drawing.Size(79, 31);
             this.label3.TabIndex = 65;
             this.label3.Text = "공정번호";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -516,14 +558,14 @@ namespace ERP_TESLA.UI.Standard
             this.tboxoperCodeSearch.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tboxoperCodeSearch.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.tboxoperCodeSearch.IsScaled = false;
-            this.tboxoperCodeSearch.Location = new System.Drawing.Point(97, 8);
+            this.tboxoperCodeSearch.Location = new System.Drawing.Point(87, 8);
             this.tboxoperCodeSearch.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.tboxoperCodeSearch.Maximum = 2147483647D;
             this.tboxoperCodeSearch.Minimum = -2147483648D;
             this.tboxoperCodeSearch.MinimumSize = new System.Drawing.Size(1, 20);
             this.tboxoperCodeSearch.Name = "tboxoperCodeSearch";
             this.tboxoperCodeSearch.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxoperCodeSearch.Size = new System.Drawing.Size(81, 20);
+            this.tboxoperCodeSearch.Size = new System.Drawing.Size(71, 20);
             this.tboxoperCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.tboxoperCodeSearch.TabIndex = 66;
             this.tboxoperCodeSearch.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
@@ -538,7 +580,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnoperCodeSearch.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnoperCodeSearch.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnoperCodeSearch.IsScaled = false;
-            this.btnoperCodeSearch.Location = new System.Drawing.Point(187, 6);
+            this.btnoperCodeSearch.Location = new System.Drawing.Point(167, 6);
             this.btnoperCodeSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnoperCodeSearch.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnoperCodeSearch.Name = "btnoperCodeSearch";
@@ -546,7 +588,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnoperCodeSearch.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnoperCodeSearch.RectPressColor = System.Drawing.Color.Transparent;
             this.btnoperCodeSearch.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnoperCodeSearch.Size = new System.Drawing.Size(44, 23);
+            this.btnoperCodeSearch.Size = new System.Drawing.Size(64, 23);
             this.btnoperCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btnoperCodeSearch.Symbol = 61442;
             this.btnoperCodeSearch.TabIndex = 67;
@@ -608,23 +650,26 @@ namespace ERP_TESLA.UI.Standard
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private Sunny.UI.UISymbolButton btnOperationUpdate;
         private Sunny.UI.UISymbolButton btnOperationAdd;
         private Sunny.UI.UISymbolButton btnOperationDelete;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private Sunny.UI.UITextBox tboxoprName;
-        private System.Windows.Forms.Label label12;
         private Sunny.UI.UITextBox tboxoprCode;
         private System.Windows.Forms.Label label14;
-        private Sunny.UI.UITextBox tboxoprDescription;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Label label3;
         private Sunny.UI.UITextBox tboxoperCodeSearch;
         private Sunny.UI.UISymbolButton btnoperCodeSearch;
         private Sunny.UI.UISymbolButton btnClear;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label12;
+        private Sunny.UI.UITextBox tboxmanHour;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colmanhour;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
+        private Sunny.UI.UITextBox tboxoprDescription;
     }
 }

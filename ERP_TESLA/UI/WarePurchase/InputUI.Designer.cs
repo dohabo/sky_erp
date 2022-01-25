@@ -29,12 +29,12 @@ namespace ERP_TESLA.UI.WarePurchase
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InputUI));
             this.Column28 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -76,7 +76,6 @@ namespace ERP_TESLA.UI.WarePurchase
             this.tboxCCode = new Sunny.UI.UITextBox();
             this.cbboxPStatus = new Sunny.UI.UIComboBox();
             this.tboxPCode = new Sunny.UI.UITextBox();
-            this.btnpOrderCodeSearch = new Sunny.UI.UISymbolButton();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.btncCodeSearch = new Sunny.UI.UISymbolButton();
@@ -186,7 +185,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btnClear.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnClear.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnClear.IsScaled = false;
-            this.btnClear.Location = new System.Drawing.Point(797, 460);
+            this.btnClear.Location = new System.Drawing.Point(779, 460);
             this.btnClear.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnClear.Name = "btnClear";
             this.btnClear.RectColor = System.Drawing.Color.Transparent;
@@ -249,21 +248,21 @@ namespace ERP_TESLA.UI.WarePurchase
             // dtgviewOrderList
             // 
             this.dtgviewOrderList.AllowUserToAddRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
-            this.dtgviewOrderList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle19.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle19.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            dataGridViewCellStyle19.SelectionForeColor = System.Drawing.Color.Black;
+            this.dtgviewOrderList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle19;
             this.dtgviewOrderList.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
             this.dtgviewOrderList.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewOrderList.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle20.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            dataGridViewCellStyle20.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle20.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle20.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            dataGridViewCellStyle20.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle20.SelectionForeColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle20.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewOrderList.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle20;
             this.dtgviewOrderList.ColumnHeadersHeight = 30;
             this.dtgviewOrderList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dtgviewOrderList.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -285,14 +284,14 @@ namespace ERP_TESLA.UI.WarePurchase
             this.dtgviewOrderList.Location = new System.Drawing.Point(20, 211);
             this.dtgviewOrderList.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
             this.dtgviewOrderList.Name = "dtgviewOrderList";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewOrderList.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle21.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle21.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle21.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle21.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle21.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle21.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewOrderList.RowHeadersDefaultCellStyle = dataGridViewCellStyle21;
             this.dtgviewOrderList.RowTemplate.Height = 30;
             this.dtgviewOrderList.Size = new System.Drawing.Size(1002, 183);
             this.dtgviewOrderList.TabIndex = 79;
@@ -358,21 +357,21 @@ namespace ERP_TESLA.UI.WarePurchase
             // dtgviewInputAdd
             // 
             this.dtgviewInputAdd.AllowUserToAddRows = false;
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black;
-            this.dtgviewInputAdd.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle22.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle22.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            dataGridViewCellStyle22.SelectionForeColor = System.Drawing.Color.Black;
+            this.dtgviewInputAdd.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle22;
             this.dtgviewInputAdd.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
             this.dtgviewInputAdd.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle5.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewInputAdd.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle23.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            dataGridViewCellStyle23.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle23.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle23.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            dataGridViewCellStyle23.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle23.SelectionForeColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewInputAdd.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle23;
             this.dtgviewInputAdd.ColumnHeadersHeight = 30;
             this.dtgviewInputAdd.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dtgviewInputAdd.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -388,14 +387,14 @@ namespace ERP_TESLA.UI.WarePurchase
             this.dtgviewInputAdd.Location = new System.Drawing.Point(20, 492);
             this.dtgviewInputAdd.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
             this.dtgviewInputAdd.Name = "dtgviewInputAdd";
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewInputAdd.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle24.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle24.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle24.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle24.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle24.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewInputAdd.RowHeadersDefaultCellStyle = dataGridViewCellStyle24;
             this.dtgviewInputAdd.RowTemplate.Height = 30;
             this.dtgviewInputAdd.Size = new System.Drawing.Size(1002, 141);
             this.dtgviewInputAdd.TabIndex = 85;
@@ -558,7 +557,6 @@ namespace ERP_TESLA.UI.WarePurchase
             this.tableLayoutPanel3.Controls.Add(this.tboxCCode, 1, 1);
             this.tableLayoutPanel3.Controls.Add(this.cbboxPStatus, 0, 2);
             this.tableLayoutPanel3.Controls.Add(this.tboxPCode, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.btnpOrderCodeSearch, 2, 0);
             this.tableLayoutPanel3.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel3.Controls.Add(this.label5, 0, 1);
             this.tableLayoutPanel3.Controls.Add(this.btncCodeSearch, 2, 1);
@@ -632,27 +630,6 @@ namespace ERP_TESLA.UI.WarePurchase
             this.tboxPCode.TabIndex = 12;
             this.tboxPCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // btnpOrderCodeSearch
-            // 
-            this.btnpOrderCodeSearch.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnpOrderCodeSearch.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.btnpOrderCodeSearch.FillHoverColor = System.Drawing.Color.Gray;
-            this.btnpOrderCodeSearch.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnpOrderCodeSearch.FillSelectedColor = System.Drawing.Color.Gray;
-            this.btnpOrderCodeSearch.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.btnpOrderCodeSearch.IsScaled = false;
-            this.btnpOrderCodeSearch.Location = new System.Drawing.Point(195, 3);
-            this.btnpOrderCodeSearch.MinimumSize = new System.Drawing.Size(1, 1);
-            this.btnpOrderCodeSearch.Name = "btnpOrderCodeSearch";
-            this.btnpOrderCodeSearch.RectColor = System.Drawing.Color.Transparent;
-            this.btnpOrderCodeSearch.RectHoverColor = System.Drawing.Color.Transparent;
-            this.btnpOrderCodeSearch.RectPressColor = System.Drawing.Color.Transparent;
-            this.btnpOrderCodeSearch.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnpOrderCodeSearch.Size = new System.Drawing.Size(42, 24);
-            this.btnpOrderCodeSearch.Style = Sunny.UI.UIStyle.Custom;
-            this.btnpOrderCodeSearch.Symbol = 61442;
-            this.btnpOrderCodeSearch.TabIndex = 12;
-            // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
@@ -695,6 +672,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btncCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btncCodeSearch.Symbol = 61442;
             this.btncCodeSearch.TabIndex = 12;
+            this.btncCodeSearch.Click += new System.EventHandler(this.btncCodeSearch_Click);
             // 
             // label6
             // 
@@ -745,6 +723,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btnmCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btnmCodeSearch.Symbol = 61442;
             this.btnmCodeSearch.TabIndex = 12;
+            this.btnmCodeSearch.Click += new System.EventHandler(this.btnmCodeSearch_Click);
             // 
             // label8
             // 
@@ -795,6 +774,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btneCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btneCodeSearch.Symbol = 61442;
             this.btneCodeSearch.TabIndex = 15;
+            this.btneCodeSearch.Click += new System.EventHandler(this.btneCodeSearch_Click);
             // 
             // label18
             // 
@@ -1075,7 +1055,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btnAddLine.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnAddLine.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnAddLine.IsScaled = false;
-            this.btnAddLine.Location = new System.Drawing.Point(720, 460);
+            this.btnAddLine.Location = new System.Drawing.Point(702, 460);
             this.btnAddLine.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnAddLine.Name = "btnAddLine";
             this.btnAddLine.RectColor = System.Drawing.Color.Transparent;
@@ -1098,18 +1078,18 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btnQRcode.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnQRcode.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnQRcode.IsScaled = false;
-            this.btnQRcode.Location = new System.Drawing.Point(874, 460);
+            this.btnQRcode.Location = new System.Drawing.Point(856, 460);
             this.btnQRcode.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnQRcode.Name = "btnQRcode";
             this.btnQRcode.RectColor = System.Drawing.Color.Transparent;
             this.btnQRcode.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnQRcode.RectPressColor = System.Drawing.Color.Transparent;
             this.btnQRcode.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnQRcode.Size = new System.Drawing.Size(71, 29);
+            this.btnQRcode.Size = new System.Drawing.Size(89, 29);
             this.btnQRcode.Style = Sunny.UI.UIStyle.Custom;
-            this.btnQRcode.Symbol = 61481;
+            this.btnQRcode.Symbol = 361482;
             this.btnQRcode.TabIndex = 88;
-            this.btnQRcode.Text = "QR";
+            this.btnQRcode.Text = "바코드";
             this.btnQRcode.Click += new System.EventHandler(this.btnQRcode_Click);
             // 
             // InputUI
@@ -1184,7 +1164,6 @@ namespace ERP_TESLA.UI.WarePurchase
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private Sunny.UI.UIComboBox cbboxPStatus;
         private Sunny.UI.UITextBox tboxPCode;
-        private Sunny.UI.UISymbolButton btnpOrderCodeSearch;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label5;
         private Sunny.UI.UISymbolButton btncCodeSearch;

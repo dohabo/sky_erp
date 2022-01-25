@@ -83,7 +83,7 @@ namespace ERP_TESLA.UI
             // loginCancel
             // 
             this.loginCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.loginCancel.Font = new System.Drawing.Font("나눔고딕", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.loginCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.loginCancel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.loginCancel.Location = new System.Drawing.Point(439, 363);
             this.loginCancel.Name = "loginCancel";
@@ -91,11 +91,12 @@ namespace ERP_TESLA.UI
             this.loginCancel.TabIndex = 12;
             this.loginCancel.Text = "취 소";
             this.loginCancel.UseVisualStyleBackColor = true;
+            this.loginCancel.Click += new System.EventHandler(this.loginCancel_Click);
             // 
             // loginOK
             // 
             this.loginOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.loginOK.Font = new System.Drawing.Font("나눔고딕", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.loginOK.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.loginOK.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.loginOK.Location = new System.Drawing.Point(140, 363);
             this.loginOK.Name = "loginOK";
@@ -132,11 +133,11 @@ namespace ERP_TESLA.UI
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("나눔고딕", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.label1.Location = new System.Drawing.Point(267, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(262, 55);
+            this.label1.Size = new System.Drawing.Size(233, 55);
             this.label1.TabIndex = 8;
             this.label1.Text = "로그인 모드";
             // 

@@ -36,6 +36,15 @@ namespace ERP_TESLA.CLASS.WarePurchase
             this.amount = amount;
         }
 
+        public Input(int pCode, int cCode, string mCode, string mCodeName, int amount)
+        {
+            this.pCode = pCode;
+            this.cCode = cCode;
+            this.mCode = mCode;
+            this.mCodeName = mCodeName;
+            this.amount = amount;
+        }
+
         public Input(int pCode, int cCode, string cName, string mCode,
             string mCodeName, string inDate, int amount, string unit, int price, int supplyPrice, int vat, int sumPrice)
         {
@@ -52,6 +61,7 @@ namespace ERP_TESLA.CLASS.WarePurchase
             this.vat = vat;
             this.sumPrice = sumPrice;
         }
+
         public Input(string confirmdate, int pCode, int cCode, string cName, string mCode,
             string mCodeName, string inDate, int amount, string unit, int price, int supplyPrice, int vat, int sumPrice)
         {
@@ -92,7 +102,6 @@ namespace ERP_TESLA.CLASS.WarePurchase
             this.inDate = inDate;
             this.wCode = wCode;
         }
-
         public int PCode { get => pCode; set => pCode = value; }
         public int CCode { get => cCode; set => cCode = value; }
         public string MCode { get => mCode; set => mCode = value; }
@@ -146,6 +155,21 @@ namespace ERP_TESLA.CLASS.WarePurchase
                     list[i].supplyPrice.ToString(),
                     list[i].vat.ToString(),
                     list[i].sumPrice.ToString()
+                }); ;
+            }
+        }
+
+        public void qrGridView(List<Input> list, DataGridView dtgview)
+        {
+            for (int i = 0; i < list.Count; i++)
+            {
+                dtgview.Rows.Add(new string[]
+                {
+                    list[i].pCode.ToString(),
+                    list[i].cCode.ToString(),
+                    list[i].mCode.ToString(),
+                    list[i].mCodeName.ToString(),
+                    list[i].amount.ToString()
                 }); ;
             }
         }

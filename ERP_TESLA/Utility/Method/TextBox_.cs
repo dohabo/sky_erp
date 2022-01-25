@@ -12,7 +12,7 @@ namespace ERP_TESLA.Utility.Method
     {
         public void comma(UITextBox textbox)
         {
-            try //숫자 이외의 문자들 입력시, 발생하는 오류를 방지
+            try //숫자 이외의 문자들 입력시, 발생하는 오류를 방지, 1000단위 콤마 표시
             {
                 int num;
                 string temp = textbox.Text.Replace(",", ""); //입력되는 텍스트들의 ','를 전부 삭제

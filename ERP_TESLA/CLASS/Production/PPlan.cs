@@ -13,25 +13,25 @@ namespace ERP_TESLA.CLASS.Production
         int amount;
         string pTarget;
         int eCode;
-        string redDate;
+        string regDate;
 
-        public PPlan(int proPlanCode, string mCode, int amount, string pTarget, int eCode, string redDate)
+        public PPlan(int proPlanCode, string mCode, int amount, string pTarget, int eCode, string regDate)
         {
             this.proPlanCode = proPlanCode;
             this.mCode = mCode;
             this.amount = amount;
             this.pTarget = pTarget;
             this.eCode = eCode;
-            this.redDate = redDate;
+            this.regDate = regDate;
         }
 
-        public PPlan(string mCode, int amount, string pTarget, int eCode, string redDate)
+        public PPlan(string mCode, int amount, string pTarget, int eCode, string regDate)
         {
             this.mCode = mCode;
             this.amount = amount;
             this.pTarget = pTarget;
             this.eCode = eCode;
-            this.redDate = redDate;
+            this.regDate = regDate;
         }
 
         public int ProPlanCode { get => proPlanCode; set => proPlanCode = value; }
@@ -39,6 +39,6 @@ namespace ERP_TESLA.CLASS.Production
         public int Amount { get => amount; set => amount = value; }
         public string PTarget { get => pTarget; set => pTarget = value; }
         public int ECode { get => eCode; set => eCode = value; }
-        public string RedDate { get => redDate; set => redDate = value; }
+        public string RegDate { get => regDate; set => regDate = value; }
     }
 }

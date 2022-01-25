@@ -1,6 +1,7 @@
 ﻿using ERP_TESLA.CLASS.Standard;
 using ERP_TESLA.CLASS.WarePurchase;
 using ERP_TESLA.DAO;
+using ERP_TESLA.UI.Common;
 using ERP_TESLA.Utility;
 using ERP_TESLA.Utility.Fuction;
 using ERP_TESLA.Utility.Method;
@@ -17,6 +18,13 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+    /// <summary>
+    /// name         : 자재 입고 관리
+    /// function     : 자재 입고 처리
+    ///                발주 내역이 존재해야 입고 처리 가능
+    /// date of prep : 2022. 01. 03
+    /// date of upd  : 
+    /// </summary>
     public partial class InputUI : UserControl
     {
         Printing printing = new Printing();
@@ -24,6 +32,7 @@ namespace ERP_TESLA.UI.WarePurchase
         TPOrder tp = new TPOrder();
         GridView gridview = new GridView();
         Material material = new Material();
+        Input input = new Input();
 
         public InputUI()
         {
@@ -189,8 +198,35 @@ namespace ERP_TESLA.UI.WarePurchase
 
         private void btnQRcode_Click(object sender, EventArgs e)
         {
+            List<Input> getinput = new List<Input>();
             QRCodeReaderUI qrreader = new QRCodeReaderUI();
             qrreader.ShowDialog();
+            getinput = qrreader.Inputlist;
+            for (int i = 0; i < getinput.Count; i++)
+            {
+                input.qrGridView(getinput, dtgviewInputAdd);
+            }
+        }
+
+        private void btncCodeSearch_Click(object sender, EventArgs e)
+        {
+            CompanyPOP company = new CompanyPOP();
+            company.ShowDialog();
+            tboxCCode.Text = company.Ccode;
+        }
+
+        private void btneCodeSearch_Click(object sender, EventArgs e)
+        {
+            EmployeePOP employee = new EmployeePOP();
+            employee.ShowDialog();
+            tboxECode.Text = employee.Ecode;
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+            MaterialPOP material = new MaterialPOP();
+            material.ShowDialog();
+            tboxMCode.Text = material.Mcode;
         }
     }
 }

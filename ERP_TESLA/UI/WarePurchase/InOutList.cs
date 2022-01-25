@@ -1,5 +1,6 @@
 ﻿using ERP_TESLA.CLASS.WarePurchase;
 using ERP_TESLA.DAO;
+using ERP_TESLA.UI.Common;
 using ERP_TESLA.Utility;
 using ERP_TESLA.Utility.Fuction;
 using ERP_TESLA.Utility.Method;
@@ -15,6 +16,12 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+    /// <summary>
+    /// name         : 입출고 내역
+    /// function     : 재고 수불 현황 확인
+    /// date of prep : 2022. 01. 03
+    /// date of upd  : 
+    /// </summary>
     public partial class InOutList : Form
     {
         string mCode;
@@ -80,6 +87,19 @@ namespace ERP_TESLA.UI.WarePurchase
             List<InOut> inoutList = OraMgr.Instance.selectInOut(
                 searchCondition, searchDate,cbboxInOut.Text);
             inout.inOutGridView(inoutList, dtgviewOrderList);
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+            MaterialPOP materialpop = new MaterialPOP();
+            materialpop.ShowDialog();
+            tboxMCode.Text = materialpop.Mcode;
+        }
+
+        private void btneCodeSearch_Click(object sender, EventArgs e)
+        {
+            WarehousePOP warehouse = new WarehousePOP();
+            warehouse.ShowDialog();
         }
     }
 }

@@ -28,9 +28,10 @@ namespace ERP_TESLA.UI.Standard
         {
             string oprCode = tboxoprCode.Text;
             string oprName = tboxoprName.Text;
+            int oprManHour = int.Parse(tboxmanHour.Text);
             string oprDescription = tboxoprDescription.Text;
 
-            Operation operation = new Operation(oprCode, oprName, oprDescription);
+            Operation operation = new Operation(oprCode, oprName, oprManHour, oprDescription);
             OraMgr.Instance.insertOperation(operation);
 
             initOperationListView();
@@ -41,9 +42,10 @@ namespace ERP_TESLA.UI.Standard
         {
             string oprCode = tboxoprCode.Text;
             string oprName = tboxoprName.Text;
+            int oprManHour = int.Parse(tboxmanHour.Text);
             string oprDescription = tboxoprDescription.Text;
 
-            Operation operation = new Operation(oprCode, oprName, oprDescription);
+            Operation operation = new Operation(oprCode, oprName, oprManHour, oprDescription);
             OraMgr.Instance.updateOperation(operation);
 
             initOperationListView();
@@ -70,7 +72,8 @@ namespace ERP_TESLA.UI.Standard
             int rowIndex = dtgviewOpeartionList.CurrentRow.Index;
             tboxoprCode.Text = dtgviewOpeartionList.Rows[rowIndex].Cells[0].Value.ToString();
             tboxoprName.Text = dtgviewOpeartionList.Rows[rowIndex].Cells[1].Value.ToString();
-            tboxoprDescription.Text = dtgviewOpeartionList.Rows[rowIndex].Cells[2].Value.ToString();
+            tboxmanHour.Text = dtgviewOpeartionList.Rows[rowIndex].Cells[2].Value.ToString();
+            tboxoprDescription.Text = dtgviewOpeartionList.Rows[rowIndex].Cells[3].Value.ToString();
 
         }
 
@@ -92,6 +95,7 @@ namespace ERP_TESLA.UI.Standard
                 {
                         list[i].OprCode.ToString(),
                         list[i].OprName.ToString(),
+                        list[i].OprManHour.ToString(),
                         list[i].OprDescription.ToString()
                 });
             }
@@ -108,6 +112,7 @@ namespace ERP_TESLA.UI.Standard
                 {
                         list[i].OprCode.ToString(),
                         list[i].OprName.ToString(),
+                        list[i].OprManHour.ToString(),
                         list[i].OprDescription.ToString()
                 });
             }

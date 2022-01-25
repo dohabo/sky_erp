@@ -12,6 +12,13 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.Standard
 {
+    /// <summary>
+    /// name         : BOM
+    /// function     : BOM 추가 삭제, 역전개, 정전개 가능한 화면
+    /// date of prep : 2022. 01. 07
+    /// date of upd  : 
+    /// note         : 
+    /// </summary>
     public partial class BOMUI : UserControl
     {
         Material material = new Material();

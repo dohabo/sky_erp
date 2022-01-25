@@ -1,5 +1,6 @@
 ﻿using ERP_TESLA.CLASS.WarePurchase;
 using ERP_TESLA.DAO;
+using ERP_TESLA.UI.Common;
 using ERP_TESLA.Utility;
 using ERP_TESLA.Utility.Fuction;
 using ERP_TESLA.Utility.Method;
@@ -16,6 +17,13 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+    /// <summary>
+    /// name         : 매입 관리
+    /// function     : 입고 처리 완료된 아이템들에 대해 확정하는 화면
+    ///                확정 처리된 항목에 대해서만 원가 계산 가능
+    /// date of prep : 2022. 01. 03
+    /// date of upd  : 
+    /// </summary>
     public partial class PurchaseMgtUI : UserControl
     {
         ExcelFunc exl = new ExcelFunc();
@@ -179,6 +187,21 @@ namespace ERP_TESLA.UI.WarePurchase
         private void tboxSumPrice_TextChanged(object sender, EventArgs e)
         {
             textbox.comma(tboxSumPrice);
+        }
+
+        private void btncCodeSearch_Click(object sender, EventArgs e)
+        {
+            CompanyPOP company = new CompanyPOP();
+            company.ShowDialog();
+            tboxCCode.Text = company.Ccode;
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+            MaterialPOP material = new MaterialPOP();
+            material.ShowDialog();
+            tboxMCode.Text = material.Mcode;
+
         }
     }
 }

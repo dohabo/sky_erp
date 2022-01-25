@@ -23,9 +23,18 @@ using ERP_TESLA.Utility.Print;
 using ERP_TESLA.Utility.Method;
 using ERP_TESLA.CLASS.Standard;
 using QRCoder;
+using ERP_TESLA.CLASS.ETC;
+using ERP_TESLA.UI.Common;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+    /// <summary>
+    /// name         : 구매 오더 등록
+    /// function     : 생산에 필요한 자재를 구매하기 위한 오더 등록 화면
+    ///                1개의 거래처에 N개의 Item 등록 가능
+    /// date of prep : 2022. 01. 03
+    /// date of upd  : 2022. 01. 08 - 바코드 생성 기능 버튼 추가
+    /// </summary>
     public partial class OrderUI : UserControl
     {
         Printing printing = new Printing();
@@ -263,8 +272,45 @@ namespace ERP_TESLA.UI.WarePurchase
 
         private void btnQRcode_Click(object sender, EventArgs e)
         {
-            QRCodeUI qrcodeui = new QRCodeUI();
+            List<BarCode> barcodeList = new List<BarCode>();
+            for (int i = 0; i < dtgviewOrderList.SelectedRows.Count; i++)
+            {
+                int cNum = dtgviewOrderList.SelectedRows[i].Index;
+                BarCode barcode =
+                    new BarCode(
+                            int.Parse(dtgviewOrderList.Rows[cNum].Cells[colPOrder.Index].Value.ToString()),
+                            int.Parse(dtgviewOrderList.Rows[cNum].Cells[colCCOde.Index].Value.ToString()),
+                            dtgviewOrderList.Rows[cNum].Cells[colMCode.Index].Value.ToString(),
+                            int.Parse(dtgviewOrderList.Rows[cNum].Cells[colAmount.Index].Value.ToString())
+                        );
+                barcodeList.Add(barcode);
+            }
+
+            QRCodeUI qrcodeui = new QRCodeUI(barcodeList);
             qrcodeui.ShowDialog();
+
+        }
+
+        private void btncCodeSearch_Click(object sender, EventArgs e)
+        {
+            CompanyPOP company = new CompanyPOP();
+            company.ShowDialog();
+            tboxCCode.Text = company.Ccode;
+
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+            MaterialPOP material = new MaterialPOP();
+            material.ShowDialog();
+            tboxMCode.Text = material.Mcode;
+        }
+
+        private void btneCodeSearch_Click(object sender, EventArgs e)
+        {
+            EmployeePOP employee = new EmployeePOP();
+            employee.ShowDialog();
+            tboxECode.Text = employee.Ecode;
         }
     }
 }

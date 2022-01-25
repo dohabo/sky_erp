@@ -36,41 +36,42 @@ namespace ERP_TESLA.UI.Production
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ProductPlanUI));
             this.btnPPlanAdd = new Sunny.UI.UISymbolButton();
             this.uiMarkLabel3 = new Sunny.UI.UIMarkLabel();
             this.uiLine1 = new Sunny.UI.UILine();
-            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.uiSymbolButton4 = new Sunny.UI.UISymbolButton();
-            this.dtgviewpCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnpPPlanSearch = new Sunny.UI.UISymbolButton();
             this.dtgviewPPlanAdd = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colpmCodeAdd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colmNameAdd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colunitAdd = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dtgviewOrder = new System.Windows.Forms.DataGridView();
-            this.번호 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dtgviewPPlan = new System.Windows.Forms.DataGridView();
+            this.num = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colProplancode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMcode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMname = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colUnit = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colAmount = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colPtarget = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colRegdate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colEcode = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.uiMarkLabel1 = new Sunny.UI.UIMarkLabel();
             this.pnSearch = new System.Windows.Forms.Panel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.uiTextBox4 = new Sunny.UI.UITextBox();
+            this.tboxproPlanCode = new Sunny.UI.UITextBox();
             this.uiSymbolButton7 = new Sunny.UI.UISymbolButton();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.uiTextBox5 = new Sunny.UI.UITextBox();
+            this.tboxMCode = new Sunny.UI.UITextBox();
             this.uiSymbolButton9 = new Sunny.UI.UISymbolButton();
             this.label6 = new System.Windows.Forms.Label();
-            this.uiTextBox6 = new Sunny.UI.UITextBox();
+            this.tboxECode = new Sunny.UI.UITextBox();
             this.uiSymbolButton10 = new Sunny.UI.UISymbolButton();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.label12 = new System.Windows.Forms.Label();
@@ -81,10 +82,18 @@ namespace ERP_TESLA.UI.Production
             this.dtpicTATFrom = new System.Windows.Forms.DateTimePicker();
             this.dtpicTATTo = new System.Windows.Forms.DateTimePicker();
             this.label15 = new System.Windows.Forms.Label();
-            this.uiSymbolButton6 = new Sunny.UI.UISymbolButton();
-            this.uiSymbolButton8 = new Sunny.UI.UISymbolButton();
+            this.btnRefAdd = new Sunny.UI.UISymbolButton();
+            this.btnAdd = new Sunny.UI.UISymbolButton();
+            this.btnDelete = new Sunny.UI.UISymbolButton();
+            this.btnClear = new Sunny.UI.UISymbolButton();
+            this.btnPPlanPrinting = new Sunny.UI.UISymbolButton();
+            this.btnPPlanPreview = new Sunny.UI.UISymbolButton();
+            this.btnExportExcel = new Sunny.UI.UISymbolButton();
+            this.pdialPPlan = new System.Windows.Forms.PrintDialog();
+            this.pdocPPlan = new System.Drawing.Printing.PrintDocument();
+            this.ppviewdialPPlan = new System.Windows.Forms.PrintPreviewDialog();
             ((System.ComponentModel.ISupportInitialize)(this.dtgviewPPlanAdd)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtgviewOrder)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgviewPPlan)).BeginInit();
             this.pnSearch.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
@@ -99,18 +108,18 @@ namespace ERP_TESLA.UI.Production
             this.btnPPlanAdd.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnPPlanAdd.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnPPlanAdd.IsScaled = false;
-            this.btnPPlanAdd.Location = new System.Drawing.Point(924, 420);
+            this.btnPPlanAdd.Location = new System.Drawing.Point(951, 420);
             this.btnPPlanAdd.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnPPlanAdd.Name = "btnPPlanAdd";
             this.btnPPlanAdd.RectColor = System.Drawing.Color.Transparent;
             this.btnPPlanAdd.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnPPlanAdd.RectPressColor = System.Drawing.Color.Transparent;
             this.btnPPlanAdd.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnPPlanAdd.Size = new System.Drawing.Size(98, 29);
+            this.btnPPlanAdd.Size = new System.Drawing.Size(71, 29);
             this.btnPPlanAdd.Style = Sunny.UI.UIStyle.Custom;
-            this.btnPPlanAdd.Symbol = 61543;
+            this.btnPPlanAdd.Symbol = 61639;
             this.btnPPlanAdd.TabIndex = 43;
-            this.btnPPlanAdd.Text = "계획등록";
+            this.btnPPlanAdd.Text = "등록";
             this.btnPPlanAdd.Click += new System.EventHandler(this.btnPPlanAdd_Click);
             // 
             // uiMarkLabel3
@@ -132,84 +141,39 @@ namespace ERP_TESLA.UI.Production
             this.uiLine1.IsScaled = false;
             this.uiLine1.LineColor = System.Drawing.Color.LightSlateGray;
             this.uiLine1.LineSize = 2;
-            this.uiLine1.Location = new System.Drawing.Point(0, 31);
+            this.uiLine1.Location = new System.Drawing.Point(0, 38);
             this.uiLine1.MinimumSize = new System.Drawing.Size(1, 1);
             this.uiLine1.Name = "uiLine1";
             this.uiLine1.Size = new System.Drawing.Size(1040, 2);
             this.uiLine1.Style = Sunny.UI.UIStyle.Custom;
             this.uiLine1.TabIndex = 40;
             // 
-            // Column7
+            // btnpPPlanSearch
             // 
-            this.Column7.HeaderText = "담당자";
-            this.Column7.Name = "Column7";
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "등록일";
-            this.Column1.Name = "Column1";
-            this.Column1.Width = 150;
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "생산목표일";
-            this.Column6.Name = "Column6";
-            this.Column6.Width = 150;
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "수량";
-            this.Column5.Name = "Column5";
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "단위";
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 80;
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "제품품명";
-            this.Column3.Name = "Column3";
-            this.Column3.Width = 130;
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "제품번호";
-            this.Column2.Name = "Column2";
-            this.Column2.Width = 130;
-            // 
-            // uiSymbolButton4
-            // 
-            this.uiSymbolButton4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.uiSymbolButton4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.uiSymbolButton4.FillHoverColor = System.Drawing.Color.Gray;
-            this.uiSymbolButton4.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.uiSymbolButton4.FillSelectedColor = System.Drawing.Color.Gray;
-            this.uiSymbolButton4.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.uiSymbolButton4.IsScaled = false;
-            this.uiSymbolButton4.Location = new System.Drawing.Point(951, 148);
-            this.uiSymbolButton4.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiSymbolButton4.Name = "uiSymbolButton4";
-            this.uiSymbolButton4.RectColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton4.RectHoverColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton4.RectPressColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton4.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton4.Size = new System.Drawing.Size(71, 27);
-            this.uiSymbolButton4.Style = Sunny.UI.UIStyle.Custom;
-            this.uiSymbolButton4.Symbol = 61442;
-            this.uiSymbolButton4.TabIndex = 41;
-            this.uiSymbolButton4.Text = "검색";
-            this.uiSymbolButton4.Click += new System.EventHandler(this.uiSymbolButton4_Click);
-            // 
-            // dtgviewpCode
-            // 
-            this.dtgviewpCode.HeaderText = "생산계획번호";
-            this.dtgviewpCode.Name = "dtgviewpCode";
-            this.dtgviewpCode.Width = 140;
+            this.btnpPPlanSearch.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnpPPlanSearch.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnpPPlanSearch.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnpPPlanSearch.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnpPPlanSearch.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnpPPlanSearch.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnpPPlanSearch.IsScaled = false;
+            this.btnpPPlanSearch.Location = new System.Drawing.Point(966, 5);
+            this.btnpPPlanSearch.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnpPPlanSearch.Name = "btnpPPlanSearch";
+            this.btnpPPlanSearch.RectColor = System.Drawing.Color.Transparent;
+            this.btnpPPlanSearch.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnpPPlanSearch.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnpPPlanSearch.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnpPPlanSearch.Size = new System.Drawing.Size(71, 27);
+            this.btnpPPlanSearch.Style = Sunny.UI.UIStyle.Custom;
+            this.btnpPPlanSearch.Symbol = 61442;
+            this.btnpPPlanSearch.TabIndex = 41;
+            this.btnpPPlanSearch.Text = "검색";
+            this.btnpPPlanSearch.Click += new System.EventHandler(this.btnpPPlanSearch_Click);
             // 
             // dtgviewPPlanAdd
             // 
+            this.dtgviewPPlanAdd.AllowUserToAddRows = false;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
             dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
@@ -229,9 +193,9 @@ namespace ERP_TESLA.UI.Production
             this.dtgviewPPlanAdd.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dtgviewPPlanAdd.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.dataGridViewTextBoxColumn1,
-            this.dataGridViewTextBoxColumn3,
-            this.dataGridViewTextBoxColumn4,
-            this.dataGridViewTextBoxColumn5,
+            this.colpmCodeAdd,
+            this.colmNameAdd,
+            this.colunitAdd,
             this.dataGridViewTextBoxColumn6,
             this.dataGridViewTextBoxColumn7,
             this.dataGridViewTextBoxColumn9,
@@ -249,11 +213,13 @@ namespace ERP_TESLA.UI.Production
             dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dtgviewPPlanAdd.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
-            this.dtgviewPPlanAdd.RowHeadersVisible = false;
             this.dtgviewPPlanAdd.RowTemplate.Height = 30;
             this.dtgviewPPlanAdd.Size = new System.Drawing.Size(1002, 197);
             this.dtgviewPPlanAdd.TabIndex = 45;
+            this.dtgviewPPlanAdd.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgviewPPlanAdd_CellDoubleClick);
+            this.dtgviewPPlanAdd.CellLeave += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgviewPPlanAdd_CellLeave);
             this.dtgviewPPlanAdd.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.dtgviewPPlanAdd_RowPostPaint);
+            this.dtgviewPPlanAdd.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.dtgviewPPlanAdd_RowsAdded);
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -261,23 +227,23 @@ namespace ERP_TESLA.UI.Production
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             this.dataGridViewTextBoxColumn1.Width = 80;
             // 
-            // dataGridViewTextBoxColumn3
+            // colpmCodeAdd
             // 
-            this.dataGridViewTextBoxColumn3.HeaderText = "제품번호";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.Width = 130;
+            this.colpmCodeAdd.HeaderText = "제품번호";
+            this.colpmCodeAdd.Name = "colpmCodeAdd";
+            this.colpmCodeAdd.Width = 130;
             // 
-            // dataGridViewTextBoxColumn4
+            // colmNameAdd
             // 
-            this.dataGridViewTextBoxColumn4.HeaderText = "제품품명";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.Width = 130;
+            this.colmNameAdd.HeaderText = "제품품명";
+            this.colmNameAdd.Name = "colmNameAdd";
+            this.colmNameAdd.Width = 130;
             // 
-            // dataGridViewTextBoxColumn5
+            // colunitAdd
             // 
-            this.dataGridViewTextBoxColumn5.HeaderText = "단위";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.Width = 80;
+            this.colunitAdd.HeaderText = "단위";
+            this.colunitAdd.Name = "colunitAdd";
+            this.colunitAdd.Width = 80;
             // 
             // dataGridViewTextBoxColumn6
             // 
@@ -304,14 +270,15 @@ namespace ERP_TESLA.UI.Production
             this.dataGridViewTextBoxColumn8.Name = "dataGridViewTextBoxColumn8";
             this.dataGridViewTextBoxColumn8.Width = 150;
             // 
-            // dtgviewOrder
+            // dtgviewPPlan
             // 
+            this.dtgviewPPlan.AllowUserToAddRows = false;
             dataGridViewCellStyle5.BackColor = System.Drawing.Color.White;
             dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.Black;
-            this.dtgviewOrder.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
-            this.dtgviewOrder.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
-            this.dtgviewOrder.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
+            this.dtgviewPPlan.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
+            this.dtgviewPPlan.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dtgviewPPlan.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
             dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.InactiveCaption;
             dataGridViewCellStyle6.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
@@ -320,24 +287,24 @@ namespace ERP_TESLA.UI.Production
             dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewOrder.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
-            this.dtgviewOrder.ColumnHeadersHeight = 30;
-            this.dtgviewOrder.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            this.dtgviewOrder.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.번호,
-            this.dtgviewpCode,
-            this.Column2,
-            this.Column3,
-            this.Column4,
-            this.Column5,
-            this.Column6,
-            this.Column1,
-            this.Column7});
-            this.dtgviewOrder.EnableHeadersVisualStyles = false;
-            this.dtgviewOrder.GridColor = System.Drawing.Color.DarkGray;
-            this.dtgviewOrder.Location = new System.Drawing.Point(20, 182);
-            this.dtgviewOrder.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
-            this.dtgviewOrder.Name = "dtgviewOrder";
+            this.dtgviewPPlan.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            this.dtgviewPPlan.ColumnHeadersHeight = 30;
+            this.dtgviewPPlan.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.dtgviewPPlan.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.num,
+            this.colProplancode,
+            this.colMcode,
+            this.colMname,
+            this.colUnit,
+            this.colAmount,
+            this.colPtarget,
+            this.colRegdate,
+            this.colEcode});
+            this.dtgviewPPlan.EnableHeadersVisualStyles = false;
+            this.dtgviewPPlan.GridColor = System.Drawing.Color.DarkGray;
+            this.dtgviewPPlan.Location = new System.Drawing.Point(20, 182);
+            this.dtgviewPPlan.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
+            this.dtgviewPPlan.Name = "dtgviewPPlan";
             dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control;
             dataGridViewCellStyle7.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
@@ -345,17 +312,62 @@ namespace ERP_TESLA.UI.Production
             dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewOrder.RowHeadersDefaultCellStyle = dataGridViewCellStyle7;
-            this.dtgviewOrder.RowTemplate.Height = 30;
-            this.dtgviewOrder.Size = new System.Drawing.Size(1002, 197);
-            this.dtgviewOrder.TabIndex = 44;
-            this.dtgviewOrder.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.dtgviewOrder_RowPostPaint);
+            this.dtgviewPPlan.RowHeadersDefaultCellStyle = dataGridViewCellStyle7;
+            this.dtgviewPPlan.RowTemplate.Height = 30;
+            this.dtgviewPPlan.Size = new System.Drawing.Size(1002, 197);
+            this.dtgviewPPlan.TabIndex = 44;
             // 
-            // 번호
+            // num
             // 
-            this.번호.HeaderText = "번호";
-            this.번호.Name = "번호";
-            this.번호.Width = 80;
+            this.num.HeaderText = "번호";
+            this.num.Name = "num";
+            this.num.Width = 80;
+            // 
+            // colProplancode
+            // 
+            this.colProplancode.HeaderText = "생산계획번호";
+            this.colProplancode.Name = "colProplancode";
+            this.colProplancode.Width = 140;
+            // 
+            // colMcode
+            // 
+            this.colMcode.HeaderText = "제품번호";
+            this.colMcode.Name = "colMcode";
+            this.colMcode.Width = 130;
+            // 
+            // colMname
+            // 
+            this.colMname.HeaderText = "제품품명";
+            this.colMname.Name = "colMname";
+            this.colMname.Width = 130;
+            // 
+            // colUnit
+            // 
+            this.colUnit.HeaderText = "단위";
+            this.colUnit.Name = "colUnit";
+            this.colUnit.Width = 80;
+            // 
+            // colAmount
+            // 
+            this.colAmount.HeaderText = "수량";
+            this.colAmount.Name = "colAmount";
+            // 
+            // colPtarget
+            // 
+            this.colPtarget.HeaderText = "생산목표일";
+            this.colPtarget.Name = "colPtarget";
+            this.colPtarget.Width = 150;
+            // 
+            // colRegdate
+            // 
+            this.colRegdate.HeaderText = "등록일";
+            this.colRegdate.Name = "colRegdate";
+            this.colRegdate.Width = 150;
+            // 
+            // colEcode
+            // 
+            this.colEcode.HeaderText = "담당자";
+            this.colEcode.Name = "colEcode";
             // 
             // label1
             // 
@@ -386,7 +398,7 @@ namespace ERP_TESLA.UI.Production
             this.pnSearch.BackColor = System.Drawing.Color.WhiteSmoke;
             this.pnSearch.Controls.Add(this.tableLayoutPanel3);
             this.pnSearch.Controls.Add(this.tableLayoutPanel2);
-            this.pnSearch.Location = new System.Drawing.Point(34, 41);
+            this.pnSearch.Location = new System.Drawing.Point(34, 49);
             this.pnSearch.Margin = new System.Windows.Forms.Padding(10, 5, 10, 5);
             this.pnSearch.Name = "pnSearch";
             this.pnSearch.Size = new System.Drawing.Size(965, 85);
@@ -401,14 +413,14 @@ namespace ERP_TESLA.UI.Production
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.84126F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.84126F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10.31746F));
-            this.tableLayoutPanel3.Controls.Add(this.uiTextBox4, 1, 0);
+            this.tableLayoutPanel3.Controls.Add(this.tboxproPlanCode, 1, 0);
             this.tableLayoutPanel3.Controls.Add(this.uiSymbolButton7, 2, 0);
             this.tableLayoutPanel3.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel3.Controls.Add(this.label5, 0, 1);
-            this.tableLayoutPanel3.Controls.Add(this.uiTextBox5, 1, 1);
+            this.tableLayoutPanel3.Controls.Add(this.tboxMCode, 1, 1);
             this.tableLayoutPanel3.Controls.Add(this.uiSymbolButton9, 2, 1);
             this.tableLayoutPanel3.Controls.Add(this.label6, 3, 0);
-            this.tableLayoutPanel3.Controls.Add(this.uiTextBox6, 4, 0);
+            this.tableLayoutPanel3.Controls.Add(this.tboxECode, 4, 0);
             this.tableLayoutPanel3.Controls.Add(this.uiSymbolButton10, 5, 0);
             this.tableLayoutPanel3.Location = new System.Drawing.Point(20, 10);
             this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(20, 10, 20, 10);
@@ -419,23 +431,23 @@ namespace ERP_TESLA.UI.Production
             this.tableLayoutPanel3.Size = new System.Drawing.Size(487, 66);
             this.tableLayoutPanel3.TabIndex = 30;
             // 
-            // uiTextBox4
+            // tboxproPlanCode
             // 
-            this.uiTextBox4.ButtonSymbol = 61761;
-            this.uiTextBox4.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.uiTextBox4.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.uiTextBox4.IsScaled = false;
-            this.uiTextBox4.Location = new System.Drawing.Point(100, 5);
-            this.uiTextBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTextBox4.Maximum = 2147483647D;
-            this.uiTextBox4.Minimum = -2147483648D;
-            this.uiTextBox4.MinimumSize = new System.Drawing.Size(1, 16);
-            this.uiTextBox4.Name = "uiTextBox4";
-            this.uiTextBox4.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.uiTextBox4.Size = new System.Drawing.Size(84, 23);
-            this.uiTextBox4.Style = Sunny.UI.UIStyle.Custom;
-            this.uiTextBox4.TabIndex = 12;
-            this.uiTextBox4.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tboxproPlanCode.ButtonSymbol = 61761;
+            this.tboxproPlanCode.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tboxproPlanCode.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.tboxproPlanCode.IsScaled = false;
+            this.tboxproPlanCode.Location = new System.Drawing.Point(100, 5);
+            this.tboxproPlanCode.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tboxproPlanCode.Maximum = 2147483647D;
+            this.tboxproPlanCode.Minimum = -2147483648D;
+            this.tboxproPlanCode.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tboxproPlanCode.Name = "tboxproPlanCode";
+            this.tboxproPlanCode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.tboxproPlanCode.Size = new System.Drawing.Size(84, 23);
+            this.tboxproPlanCode.Style = Sunny.UI.UIStyle.Custom;
+            this.tboxproPlanCode.TabIndex = 12;
+            this.tboxproPlanCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // uiSymbolButton7
             // 
@@ -480,23 +492,23 @@ namespace ERP_TESLA.UI.Production
             this.label5.Text = "제품번호";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // uiTextBox5
+            // tboxMCode
             // 
-            this.uiTextBox5.ButtonSymbol = 61761;
-            this.uiTextBox5.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.uiTextBox5.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.uiTextBox5.IsScaled = false;
-            this.uiTextBox5.Location = new System.Drawing.Point(100, 38);
-            this.uiTextBox5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTextBox5.Maximum = 2147483647D;
-            this.uiTextBox5.Minimum = -2147483648D;
-            this.uiTextBox5.MinimumSize = new System.Drawing.Size(1, 16);
-            this.uiTextBox5.Name = "uiTextBox5";
-            this.uiTextBox5.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.uiTextBox5.Size = new System.Drawing.Size(84, 23);
-            this.uiTextBox5.Style = Sunny.UI.UIStyle.Custom;
-            this.uiTextBox5.TabIndex = 12;
-            this.uiTextBox5.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tboxMCode.ButtonSymbol = 61761;
+            this.tboxMCode.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tboxMCode.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.tboxMCode.IsScaled = false;
+            this.tboxMCode.Location = new System.Drawing.Point(100, 38);
+            this.tboxMCode.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tboxMCode.Maximum = 2147483647D;
+            this.tboxMCode.Minimum = -2147483648D;
+            this.tboxMCode.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tboxMCode.Name = "tboxMCode";
+            this.tboxMCode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.tboxMCode.Size = new System.Drawing.Size(84, 23);
+            this.tboxMCode.Style = Sunny.UI.UIStyle.Custom;
+            this.tboxMCode.TabIndex = 12;
+            this.tboxMCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // uiSymbolButton9
             // 
@@ -530,23 +542,23 @@ namespace ERP_TESLA.UI.Production
             this.label6.Text = "담당자";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // uiTextBox6
+            // tboxECode
             // 
-            this.uiTextBox6.ButtonSymbol = 61761;
-            this.uiTextBox6.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.uiTextBox6.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.uiTextBox6.IsScaled = false;
-            this.uiTextBox6.Location = new System.Drawing.Point(342, 5);
-            this.uiTextBox6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTextBox6.Maximum = 2147483647D;
-            this.uiTextBox6.Minimum = -2147483648D;
-            this.uiTextBox6.MinimumSize = new System.Drawing.Size(1, 16);
-            this.uiTextBox6.Name = "uiTextBox6";
-            this.uiTextBox6.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.uiTextBox6.Size = new System.Drawing.Size(84, 23);
-            this.uiTextBox6.Style = Sunny.UI.UIStyle.Custom;
-            this.uiTextBox6.TabIndex = 12;
-            this.uiTextBox6.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tboxECode.ButtonSymbol = 61761;
+            this.tboxECode.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tboxECode.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.tboxECode.IsScaled = false;
+            this.tboxECode.Location = new System.Drawing.Point(342, 5);
+            this.tboxECode.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tboxECode.Maximum = 2147483647D;
+            this.tboxECode.Minimum = -2147483648D;
+            this.tboxECode.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tboxECode.Name = "tboxECode";
+            this.tboxECode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.tboxECode.Size = new System.Drawing.Size(84, 23);
+            this.tboxECode.Style = Sunny.UI.UIStyle.Custom;
+            this.tboxECode.TabIndex = 12;
+            this.tboxECode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // uiSymbolButton10
             // 
@@ -568,6 +580,7 @@ namespace ERP_TESLA.UI.Production
             this.uiSymbolButton10.Style = Sunny.UI.UIStyle.Custom;
             this.uiSymbolButton10.Symbol = 61442;
             this.uiSymbolButton10.TabIndex = 12;
+            this.uiSymbolButton10.Click += new System.EventHandler(this.uiSymbolButton10_Click);
             // 
             // tableLayoutPanel2
             // 
@@ -671,61 +684,206 @@ namespace ERP_TESLA.UI.Production
             this.label15.Text = "~";
             this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // uiSymbolButton6
+            // btnRefAdd
             // 
-            this.uiSymbolButton6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.uiSymbolButton6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.uiSymbolButton6.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.uiSymbolButton6.ForeColor = System.Drawing.Color.Black;
-            this.uiSymbolButton6.IsScaled = false;
-            this.uiSymbolButton6.Location = new System.Drawing.Point(20, 385);
-            this.uiSymbolButton6.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiSymbolButton6.Name = "uiSymbolButton6";
-            this.uiSymbolButton6.RectColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton6.Size = new System.Drawing.Size(97, 29);
-            this.uiSymbolButton6.Style = Sunny.UI.UIStyle.Custom;
-            this.uiSymbolButton6.Symbol = 361792;
-            this.uiSymbolButton6.TabIndex = 38;
-            this.uiSymbolButton6.Text = "참조생성";
+            this.btnRefAdd.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnRefAdd.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnRefAdd.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnRefAdd.ForeColor = System.Drawing.Color.Black;
+            this.btnRefAdd.IsScaled = false;
+            this.btnRefAdd.Location = new System.Drawing.Point(20, 385);
+            this.btnRefAdd.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnRefAdd.Name = "btnRefAdd";
+            this.btnRefAdd.RectColor = System.Drawing.Color.Transparent;
+            this.btnRefAdd.Size = new System.Drawing.Size(97, 29);
+            this.btnRefAdd.Style = Sunny.UI.UIStyle.Custom;
+            this.btnRefAdd.Symbol = 361792;
+            this.btnRefAdd.TabIndex = 38;
+            this.btnRefAdd.Text = "참조생성";
+            this.btnRefAdd.Click += new System.EventHandler(this.btnRefAdd_Click);
             // 
-            // uiSymbolButton8
+            // btnAdd
             // 
-            this.uiSymbolButton8.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.uiSymbolButton8.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.uiSymbolButton8.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
-            this.uiSymbolButton8.ForeColor = System.Drawing.Color.Black;
-            this.uiSymbolButton8.IsScaled = false;
-            this.uiSymbolButton8.Location = new System.Drawing.Point(123, 385);
-            this.uiSymbolButton8.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiSymbolButton8.Name = "uiSymbolButton8";
-            this.uiSymbolButton8.RectColor = System.Drawing.Color.Transparent;
-            this.uiSymbolButton8.Size = new System.Drawing.Size(104, 29);
-            this.uiSymbolButton8.Style = Sunny.UI.UIStyle.Custom;
-            this.uiSymbolButton8.Symbol = 61473;
-            this.uiSymbolButton8.TabIndex = 37;
-            this.uiSymbolButton8.Text = "새글작성";
+            this.btnAdd.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAdd.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnAdd.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnAdd.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnAdd.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnAdd.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnAdd.IsScaled = false;
+            this.btnAdd.Location = new System.Drawing.Point(720, 420);
+            this.btnAdd.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.RectColor = System.Drawing.Color.Transparent;
+            this.btnAdd.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnAdd.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnAdd.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnAdd.Size = new System.Drawing.Size(71, 29);
+            this.btnAdd.Style = Sunny.UI.UIStyle.Custom;
+            this.btnAdd.Symbol = 61525;
+            this.btnAdd.TabIndex = 46;
+            this.btnAdd.Text = "추가";
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnDelete.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnDelete.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnDelete.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnDelete.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnDelete.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnDelete.IsScaled = false;
+            this.btnDelete.Location = new System.Drawing.Point(797, 420);
+            this.btnDelete.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.RectColor = System.Drawing.Color.Transparent;
+            this.btnDelete.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnDelete.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnDelete.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnDelete.Size = new System.Drawing.Size(71, 29);
+            this.btnDelete.Style = Sunny.UI.UIStyle.Custom;
+            this.btnDelete.Symbol = 61526;
+            this.btnDelete.TabIndex = 46;
+            this.btnDelete.Text = "삭제";
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
+            // btnClear
+            // 
+            this.btnClear.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnClear.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnClear.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnClear.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnClear.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnClear.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnClear.IsScaled = false;
+            this.btnClear.Location = new System.Drawing.Point(874, 420);
+            this.btnClear.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.RectColor = System.Drawing.Color.Transparent;
+            this.btnClear.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnClear.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnClear.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnClear.Size = new System.Drawing.Size(71, 29);
+            this.btnClear.Style = Sunny.UI.UIStyle.Custom;
+            this.btnClear.Symbol = 61473;
+            this.btnClear.TabIndex = 66;
+            this.btnClear.Text = "새글";
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // btnPPlanPrinting
+            // 
+            this.btnPPlanPrinting.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnPPlanPrinting.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnPPlanPrinting.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnPPlanPrinting.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnPPlanPrinting.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnPPlanPrinting.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnPPlanPrinting.IsScaled = false;
+            this.btnPPlanPrinting.Location = new System.Drawing.Point(891, 4);
+            this.btnPPlanPrinting.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnPPlanPrinting.Name = "btnPPlanPrinting";
+            this.btnPPlanPrinting.RectColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPrinting.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPrinting.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPrinting.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPrinting.Size = new System.Drawing.Size(71, 29);
+            this.btnPPlanPrinting.Style = Sunny.UI.UIStyle.Custom;
+            this.btnPPlanPrinting.Symbol = 61487;
+            this.btnPPlanPrinting.TabIndex = 73;
+            this.btnPPlanPrinting.Text = "인쇄";
+            this.btnPPlanPrinting.Click += new System.EventHandler(this.btnPPlanPrinting_Click);
+            // 
+            // btnPPlanPreview
+            // 
+            this.btnPPlanPreview.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnPPlanPreview.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnPPlanPreview.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnPPlanPreview.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnPPlanPreview.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnPPlanPreview.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnPPlanPreview.IsScaled = false;
+            this.btnPPlanPreview.Location = new System.Drawing.Point(783, 4);
+            this.btnPPlanPreview.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnPPlanPreview.Name = "btnPPlanPreview";
+            this.btnPPlanPreview.RectColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPreview.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPreview.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPreview.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnPPlanPreview.Size = new System.Drawing.Size(102, 29);
+            this.btnPPlanPreview.Style = Sunny.UI.UIStyle.Custom;
+            this.btnPPlanPreview.Symbol = 62060;
+            this.btnPPlanPreview.TabIndex = 72;
+            this.btnPPlanPreview.Text = "미리보기";
+            this.btnPPlanPreview.Click += new System.EventHandler(this.btnPPlanPreview_Click);
+            // 
+            // btnExportExcel
+            // 
+            this.btnExportExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExportExcel.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
+            this.btnExportExcel.FillHoverColor = System.Drawing.Color.Gray;
+            this.btnExportExcel.FillPressColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnExportExcel.FillSelectedColor = System.Drawing.Color.Gray;
+            this.btnExportExcel.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
+            this.btnExportExcel.IsScaled = false;
+            this.btnExportExcel.Location = new System.Drawing.Point(706, 4);
+            this.btnExportExcel.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnExportExcel.Name = "btnExportExcel";
+            this.btnExportExcel.RectColor = System.Drawing.Color.Transparent;
+            this.btnExportExcel.RectHoverColor = System.Drawing.Color.Transparent;
+            this.btnExportExcel.RectPressColor = System.Drawing.Color.Transparent;
+            this.btnExportExcel.RectSelectedColor = System.Drawing.Color.Transparent;
+            this.btnExportExcel.Size = new System.Drawing.Size(71, 29);
+            this.btnExportExcel.Style = Sunny.UI.UIStyle.Custom;
+            this.btnExportExcel.Symbol = 61714;
+            this.btnExportExcel.TabIndex = 71;
+            this.btnExportExcel.Text = "엑셀";
+            this.btnExportExcel.Click += new System.EventHandler(this.btnExportExcel_Click);
+            // 
+            // pdialPPlan
+            // 
+            this.pdialPPlan.UseEXDialog = true;
+            // 
+            // pdocPPlan
+            // 
+            this.pdocPPlan.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.pdocPPlan_PrintPage);
+            // 
+            // ppviewdialPPlan
+            // 
+            this.ppviewdialPPlan.AutoScrollMargin = new System.Drawing.Size(0, 0);
+            this.ppviewdialPPlan.AutoScrollMinSize = new System.Drawing.Size(0, 0);
+            this.ppviewdialPPlan.ClientSize = new System.Drawing.Size(400, 300);
+            this.ppviewdialPPlan.Enabled = true;
+            this.ppviewdialPPlan.Icon = ((System.Drawing.Icon)(resources.GetObject("ppviewdialPPlan.Icon")));
+            this.ppviewdialPPlan.Name = "ppviewdialPPlan";
+            this.ppviewdialPPlan.Visible = false;
             // 
             // ProductPlanUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.Controls.Add(this.btnPPlanPrinting);
+            this.Controls.Add(this.btnPPlanPreview);
+            this.Controls.Add(this.btnExportExcel);
+            this.Controls.Add(this.btnClear);
+            this.Controls.Add(this.btnDelete);
+            this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnPPlanAdd);
             this.Controls.Add(this.uiMarkLabel3);
             this.Controls.Add(this.uiLine1);
-            this.Controls.Add(this.uiSymbolButton4);
+            this.Controls.Add(this.btnpPPlanSearch);
             this.Controls.Add(this.dtgviewPPlanAdd);
-            this.Controls.Add(this.dtgviewOrder);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.uiMarkLabel1);
             this.Controls.Add(this.pnSearch);
-            this.Controls.Add(this.uiSymbolButton6);
-            this.Controls.Add(this.uiSymbolButton8);
+            this.Controls.Add(this.btnRefAdd);
+            this.Controls.Add(this.dtgviewPPlan);
             this.Name = "ProductPlanUI";
             this.Size = new System.Drawing.Size(1040, 674);
             this.Load += new System.EventHandler(this.ProductPlanUI_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgviewPPlanAdd)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtgviewOrder)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgviewPPlan)).EndInit();
             this.pnSearch.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
@@ -739,30 +897,21 @@ namespace ERP_TESLA.UI.Production
         private Sunny.UI.UISymbolButton btnPPlanAdd;
         private Sunny.UI.UIMarkLabel uiMarkLabel3;
         private Sunny.UI.UILine uiLine1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private Sunny.UI.UISymbolButton uiSymbolButton4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dtgviewpCode;
+        private Sunny.UI.UISymbolButton btnpPPlanSearch;
         private System.Windows.Forms.DataGridView dtgviewPPlanAdd;
-        private System.Windows.Forms.DataGridView dtgviewOrder;
-        private System.Windows.Forms.DataGridViewTextBoxColumn 번호;
+        private System.Windows.Forms.DataGridView dtgviewPPlan;
         private System.Windows.Forms.Label label1;
         private Sunny.UI.UIMarkLabel uiMarkLabel1;
         private System.Windows.Forms.Panel pnSearch;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
-        private Sunny.UI.UITextBox uiTextBox4;
+        private Sunny.UI.UITextBox tboxproPlanCode;
         private Sunny.UI.UISymbolButton uiSymbolButton7;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label5;
-        private Sunny.UI.UITextBox uiTextBox5;
+        private Sunny.UI.UITextBox tboxMCode;
         private Sunny.UI.UISymbolButton uiSymbolButton9;
         private System.Windows.Forms.Label label6;
-        private Sunny.UI.UITextBox uiTextBox6;
+        private Sunny.UI.UITextBox tboxECode;
         private Sunny.UI.UISymbolButton uiSymbolButton10;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Label label12;
@@ -773,15 +922,32 @@ namespace ERP_TESLA.UI.Production
         private System.Windows.Forms.DateTimePicker dtpicTATFrom;
         private System.Windows.Forms.DateTimePicker dtpicTATTo;
         private System.Windows.Forms.Label label15;
-        private Sunny.UI.UISymbolButton uiSymbolButton6;
-        private Sunny.UI.UISymbolButton uiSymbolButton8;
+        private Sunny.UI.UISymbolButton btnRefAdd;
+        private System.Windows.Forms.DataGridViewTextBoxColumn num;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colProplancode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colMcode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colMname;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colUnit;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colAmount;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colPtarget;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colRegdate;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colEcode;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colpmCodeAdd;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colmNameAdd;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colunitAdd;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn7;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn9;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn8;
+        private Sunny.UI.UISymbolButton btnAdd;
+        private Sunny.UI.UISymbolButton btnDelete;
+        private Sunny.UI.UISymbolButton btnClear;
+        private Sunny.UI.UISymbolButton btnPPlanPrinting;
+        private Sunny.UI.UISymbolButton btnPPlanPreview;
+        private Sunny.UI.UISymbolButton btnExportExcel;
+        private System.Windows.Forms.PrintDialog pdialPPlan;
+        private System.Drawing.Printing.PrintDocument pdocPPlan;
+        private System.Windows.Forms.PrintPreviewDialog ppviewdialPPlan;
     }
 }

@@ -146,7 +146,7 @@ namespace ERP_TESLA.UI.Standard
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 52F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 82F));
             this.tableLayoutPanel2.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.tboxPMCode, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.btnPMCode, 2, 0);
@@ -164,7 +164,7 @@ namespace ERP_TESLA.UI.Standard
             this.label3.Location = new System.Drawing.Point(2, 2);
             this.label3.Margin = new System.Windows.Forms.Padding(0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 31);
+            this.label3.Size = new System.Drawing.Size(73, 31);
             this.label3.TabIndex = 65;
             this.label3.Text = "모품목번호";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -176,14 +176,14 @@ namespace ERP_TESLA.UI.Standard
             this.tboxPMCode.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tboxPMCode.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.tboxPMCode.IsScaled = false;
-            this.tboxPMCode.Location = new System.Drawing.Point(96, 8);
+            this.tboxPMCode.Location = new System.Drawing.Point(81, 8);
             this.tboxPMCode.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.tboxPMCode.Maximum = 2147483647D;
             this.tboxPMCode.Minimum = -2147483648D;
             this.tboxPMCode.MinimumSize = new System.Drawing.Size(1, 20);
             this.tboxPMCode.Name = "tboxPMCode";
             this.tboxPMCode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxPMCode.Size = new System.Drawing.Size(80, 20);
+            this.tboxPMCode.Size = new System.Drawing.Size(65, 20);
             this.tboxPMCode.Style = Sunny.UI.UIStyle.Custom;
             this.tboxPMCode.TabIndex = 66;
             this.tboxPMCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
@@ -198,7 +198,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnPMCode.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnPMCode.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnPMCode.IsScaled = false;
-            this.btnPMCode.Location = new System.Drawing.Point(185, 6);
+            this.btnPMCode.Location = new System.Drawing.Point(155, 6);
             this.btnPMCode.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnPMCode.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnPMCode.Name = "btnPMCode";
@@ -206,7 +206,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnPMCode.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnPMCode.RectPressColor = System.Drawing.Color.Transparent;
             this.btnPMCode.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnPMCode.Size = new System.Drawing.Size(46, 23);
+            this.btnPMCode.Size = new System.Drawing.Size(76, 23);
             this.btnPMCode.Style = Sunny.UI.UIStyle.Custom;
             this.btnPMCode.Symbol = 61442;
             this.btnPMCode.TabIndex = 67;
@@ -299,11 +299,11 @@ namespace ERP_TESLA.UI.Standard
             this.btnClear.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
             this.btnClear.IsScaled = false;
-            this.btnClear.Location = new System.Drawing.Point(824, 393);
+            this.btnClear.Location = new System.Drawing.Point(829, 393);
             this.btnClear.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnClear.Name = "btnClear";
             this.btnClear.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.btnClear.Size = new System.Drawing.Size(130, 35);
+            this.btnClear.Size = new System.Drawing.Size(114, 35);
             this.btnClear.Style = Sunny.UI.UIStyle.Custom;
             this.btnClear.Symbol = 61473;
             this.btnClear.TabIndex = 96;
@@ -316,7 +316,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnBOMAdd.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
             this.btnBOMAdd.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnBOMAdd.IsScaled = false;
-            this.btnBOMAdd.Location = new System.Drawing.Point(705, 393);
+            this.btnBOMAdd.Location = new System.Drawing.Point(723, 393);
             this.btnBOMAdd.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnBOMAdd.Name = "btnBOMAdd";
             this.btnBOMAdd.RectColor = System.Drawing.Color.Transparent;
@@ -814,7 +814,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnCMCode.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnCMCode.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnCMCode.IsScaled = false;
-            this.btnCMCode.Location = new System.Drawing.Point(185, 6);
+            this.btnCMCode.Location = new System.Drawing.Point(155, 6);
             this.btnCMCode.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnCMCode.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnCMCode.Name = "btnCMCode";
@@ -822,7 +822,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnCMCode.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnCMCode.RectPressColor = System.Drawing.Color.Transparent;
             this.btnCMCode.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnCMCode.Size = new System.Drawing.Size(46, 23);
+            this.btnCMCode.Size = new System.Drawing.Size(76, 23);
             this.btnCMCode.Style = Sunny.UI.UIStyle.Custom;
             this.btnCMCode.Symbol = 61442;
             this.btnCMCode.TabIndex = 67;
@@ -834,7 +834,7 @@ namespace ERP_TESLA.UI.Standard
             this.label5.Location = new System.Drawing.Point(2, 2);
             this.label5.Margin = new System.Windows.Forms.Padding(0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(88, 31);
+            this.label5.Size = new System.Drawing.Size(73, 31);
             this.label5.TabIndex = 65;
             this.label5.Text = "자품목번호";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -845,7 +845,7 @@ namespace ERP_TESLA.UI.Standard
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 52F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 82F));
             this.tableLayoutPanel1.Controls.Add(this.tboxCMCode, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.label5, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.btnCMCode, 2, 0);
@@ -864,14 +864,14 @@ namespace ERP_TESLA.UI.Standard
             this.tboxCMCode.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tboxCMCode.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.tboxCMCode.IsScaled = false;
-            this.tboxCMCode.Location = new System.Drawing.Point(96, 8);
+            this.tboxCMCode.Location = new System.Drawing.Point(81, 8);
             this.tboxCMCode.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.tboxCMCode.Maximum = 2147483647D;
             this.tboxCMCode.Minimum = -2147483648D;
             this.tboxCMCode.MinimumSize = new System.Drawing.Size(1, 20);
             this.tboxCMCode.Name = "tboxCMCode";
             this.tboxCMCode.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxCMCode.Size = new System.Drawing.Size(80, 20);
+            this.tboxCMCode.Size = new System.Drawing.Size(65, 20);
             this.tboxCMCode.Style = Sunny.UI.UIStyle.Custom;
             this.tboxCMCode.TabIndex = 68;
             this.tboxCMCode.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;

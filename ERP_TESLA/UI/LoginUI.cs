@@ -31,5 +31,10 @@ namespace ERP_TESLA.UI
             string idNum = user.Text;
             return idNum;
         }
+
+        private void loginCancel_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }

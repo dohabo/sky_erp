@@ -735,7 +735,7 @@ namespace ERP_TESLA.UI.Standard
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 54F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 82F));
             this.tableLayoutPanel2.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.tboxmCodeSearch, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.btnmCodeSearch, 2, 0);
@@ -752,7 +752,7 @@ namespace ERP_TESLA.UI.Standard
             this.label3.Location = new System.Drawing.Point(2, 2);
             this.label3.Margin = new System.Windows.Forms.Padding(0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 31);
+            this.label3.Size = new System.Drawing.Size(73, 31);
             this.label3.TabIndex = 65;
             this.label3.Text = "품목번호";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -764,14 +764,14 @@ namespace ERP_TESLA.UI.Standard
             this.tboxmCodeSearch.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tboxmCodeSearch.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.tboxmCodeSearch.IsScaled = false;
-            this.tboxmCodeSearch.Location = new System.Drawing.Point(95, 8);
+            this.tboxmCodeSearch.Location = new System.Drawing.Point(81, 8);
             this.tboxmCodeSearch.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.tboxmCodeSearch.Maximum = 2147483647D;
             this.tboxmCodeSearch.Minimum = -2147483648D;
             this.tboxmCodeSearch.MinimumSize = new System.Drawing.Size(1, 20);
             this.tboxmCodeSearch.Name = "tboxmCodeSearch";
             this.tboxmCodeSearch.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(97)))), ((int)(((byte)(109)))));
-            this.tboxmCodeSearch.Size = new System.Drawing.Size(79, 20);
+            this.tboxmCodeSearch.Size = new System.Drawing.Size(65, 20);
             this.tboxmCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.tboxmCodeSearch.TabIndex = 66;
             this.tboxmCodeSearch.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
@@ -786,7 +786,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnmCodeSearch.FillSelectedColor = System.Drawing.Color.Gray;
             this.btnmCodeSearch.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
             this.btnmCodeSearch.IsScaled = false;
-            this.btnmCodeSearch.Location = new System.Drawing.Point(183, 6);
+            this.btnmCodeSearch.Location = new System.Drawing.Point(155, 6);
             this.btnmCodeSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnmCodeSearch.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnmCodeSearch.Name = "btnmCodeSearch";
@@ -794,7 +794,7 @@ namespace ERP_TESLA.UI.Standard
             this.btnmCodeSearch.RectHoverColor = System.Drawing.Color.Transparent;
             this.btnmCodeSearch.RectPressColor = System.Drawing.Color.Transparent;
             this.btnmCodeSearch.RectSelectedColor = System.Drawing.Color.Transparent;
-            this.btnmCodeSearch.Size = new System.Drawing.Size(48, 23);
+            this.btnmCodeSearch.Size = new System.Drawing.Size(76, 23);
             this.btnmCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btnmCodeSearch.Symbol = 61442;
             this.btnmCodeSearch.TabIndex = 67;

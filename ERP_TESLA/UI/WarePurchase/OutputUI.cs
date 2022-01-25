@@ -1,6 +1,7 @@
 ﻿using ERP_TESLA.CLASS.Production;
 using ERP_TESLA.CLASS.WarePurchase;
 using ERP_TESLA.DAO;
+using ERP_TESLA.UI.Common;
 using ERP_TESLA.Utility;
 using ERP_TESLA.Utility.Fuction;
 using ERP_TESLA.Utility.Method;
@@ -16,6 +17,13 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+    /// <summary>
+    /// name         : 자재 출고 관리
+    /// function     : 자재 출고 요청된 아이템에 대해 출고 처리 해주는 화면
+    ///                바코드를 이용해 출고 아이템 스캔하여 리스트업 가능
+    /// date of prep : 2022. 01. 03
+    /// date of upd  : 2022. 01. 08 바코드 스캔 기능 버튼 추가
+    /// </summary>
     public partial class OutputUI : UserControl
     {
         GridView gridview = new GridView();
@@ -154,6 +162,25 @@ namespace ERP_TESLA.UI.WarePurchase
         private void btnExportExcel_Click(object sender, EventArgs e)
         {
             exl.excelExport(dtgviewOutReqList, "출고요청 내역",dtpicReqFrom, dtpicReqTo);
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+            MaterialPOP material = new MaterialPOP();
+            material.ShowDialog();
+            tboxMCode.Text = material.Mcode;
+        }
+
+        private void btneCodeSearch_Click(object sender, EventArgs e)
+        {
+            EmployeePOP employee = new EmployeePOP();
+            employee.ShowDialog();
+            tboxECode.Text = employee.Ecode;
+        }
+
+        private void btnpOrderCodeSearch_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

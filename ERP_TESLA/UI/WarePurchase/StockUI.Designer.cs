@@ -29,12 +29,19 @@ namespace ERP_TESLA.UI.WarePurchase
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(StockUI));
             this.btnSearch = new Sunny.UI.UISymbolButton();
             this.dtgviewStockList = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnPrinting = new Sunny.UI.UISymbolButton();
             this.btnPreview = new Sunny.UI.UISymbolButton();
             this.label2 = new System.Windows.Forms.Label();
@@ -59,13 +66,6 @@ namespace ERP_TESLA.UI.WarePurchase
             this.pdialStock = new System.Windows.Forms.PrintDialog();
             this.pdocStock = new System.Drawing.Printing.PrintDocument();
             this.ppviewdialStock = new System.Windows.Forms.PrintPreviewDialog();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colMName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtgviewStockList)).BeginInit();
             this.tableLayoutPanel3.SuspendLayout();
             this.SuspendLayout();
@@ -96,21 +96,21 @@ namespace ERP_TESLA.UI.WarePurchase
             // dtgviewStockList
             // 
             this.dtgviewStockList.AllowUserToAddRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
-            this.dtgviewStockList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black;
+            this.dtgviewStockList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dtgviewStockList.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
             this.dtgviewStockList.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewStockList.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle5.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewStockList.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dtgviewStockList.ColumnHeadersHeight = 30;
             this.dtgviewStockList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dtgviewStockList.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -126,17 +126,52 @@ namespace ERP_TESLA.UI.WarePurchase
             this.dtgviewStockList.Location = new System.Drawing.Point(20, 211);
             this.dtgviewStockList.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
             this.dtgviewStockList.Name = "dtgviewStockList";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dtgviewStockList.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dtgviewStockList.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dtgviewStockList.RowTemplate.Height = 30;
             this.dtgviewStockList.Size = new System.Drawing.Size(1002, 446);
             this.dtgviewStockList.TabIndex = 97;
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "자재구분";
+            this.Column1.Name = "Column1";
+            // 
+            // colMName
+            // 
+            this.colMName.HeaderText = "품번";
+            this.colMName.Name = "colMName";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "품명";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "수량";
+            this.Column4.Name = "Column4";
+            // 
+            // Column5
+            // 
+            this.Column5.HeaderText = "단위";
+            this.Column5.Name = "Column5";
+            // 
+            // Column6
+            // 
+            this.Column6.HeaderText = "규격";
+            this.Column6.Name = "Column6";
+            // 
+            // Column7
+            // 
+            this.Column7.HeaderText = "창고";
+            this.Column7.Name = "Column7";
             // 
             // btnPrinting
             // 
@@ -407,6 +442,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btnmCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btnmCodeSearch.Symbol = 61442;
             this.btnmCodeSearch.TabIndex = 12;
+            this.btnmCodeSearch.Click += new System.EventHandler(this.btnmCodeSearch_Click);
             // 
             // label8
             // 
@@ -457,6 +493,7 @@ namespace ERP_TESLA.UI.WarePurchase
             this.btneCodeSearch.Style = Sunny.UI.UIStyle.Custom;
             this.btneCodeSearch.Symbol = 61442;
             this.btneCodeSearch.TabIndex = 15;
+            this.btneCodeSearch.Click += new System.EventHandler(this.btneCodeSearch_Click);
             // 
             // cbboxMClass
             // 
@@ -524,41 +561,6 @@ namespace ERP_TESLA.UI.WarePurchase
             this.ppviewdialStock.Icon = ((System.Drawing.Icon)(resources.GetObject("ppviewdialStock.Icon")));
             this.ppviewdialStock.Name = "ppviewdialStock";
             this.ppviewdialStock.Visible = false;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "자재구분";
-            this.Column1.Name = "Column1";
-            // 
-            // colMName
-            // 
-            this.colMName.HeaderText = "품번";
-            this.colMName.Name = "colMName";
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "품명";
-            this.Column3.Name = "Column3";
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "수량";
-            this.Column4.Name = "Column4";
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "단위";
-            this.Column5.Name = "Column5";
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "규격";
-            this.Column6.Name = "Column6";
-            // 
-            // Column7
-            // 
-            this.Column7.HeaderText = "창고";
-            this.Column7.Name = "Column7";
             // 
             // StockUI
             // 

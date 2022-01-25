@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ERP_TESLA.UI.Common;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -64,26 +65,36 @@ namespace ERP_TESLA.UI
 
         }
 
-        private void EmailUI_Load_1(object sender, EventArgs e)
+        private void btnClear_Click(object sender, EventArgs e)
         {
-
+            tboxSendby.Text = string.Empty;
+            tboxPW.Text = string.Empty;
+            tboxSendTo.Text = string.Empty;
+            tboxAttach.Text = string.Empty;
+            tboxTitle.Text = string.Empty;
+            tboxContents.Text = string.Empty;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            FileMailSend(textBox1.Text, textBox2.Text,
-            textBox3.Text, textBox4.Text, textBox5.Text, textBox6.Text);
-        }
-
-        private void button2_Click(object sender, EventArgs e)
+        private void btnAttach_Click(object sender, EventArgs e)
         {
             OpenFileDialog pFileDlg = new OpenFileDialog();
             pFileDlg.Title = "첨부파일 파일을 선택 해주세요.";
             if (pFileDlg.ShowDialog() == DialogResult.OK)
             {
                 String strFullPathFile = pFileDlg.FileName;
-                textBox6.Text = strFullPathFile;
+                tboxAttach.Text = strFullPathFile;
             }
+        }
+
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+            FileMailSend(tboxSendby.Text, tboxPW.Text,
+            tboxSendTo.Text, tboxTitle.Text, tboxContents.Text, tboxAttach.Text);
+            this.Close();
+        }
+
+        private void btnSearchSendTo_Click(object sender, EventArgs e)
+        {
         }
     }
 }

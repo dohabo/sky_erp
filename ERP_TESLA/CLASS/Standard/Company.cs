@@ -34,7 +34,13 @@ namespace ERP_TESLA.CLASS.Standard
             this.telNum = telNum;
         }
 
-
+        public Company(int cCode, string cName, string ceoName, string telNum)
+        {
+            this.cCode = cCode;
+            this.cName = cName;
+            this.ceoName = ceoName;
+            this.telNum = telNum;
+        }
         public int CCode { get => cCode; set => cCode = value; }
         public string CName { get => cName; set => cName = value; }
         public string CeoName { get => ceoName; set => ceoName = value; }

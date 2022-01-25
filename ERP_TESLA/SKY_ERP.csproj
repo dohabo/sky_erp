@@ -244,6 +244,7 @@
     </Reference>
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -266,9 +267,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CLASS\Cost\ProductCost.cs" />
+    <Compile Include="CLASS\ETC\BarCode.cs" />
+    <Compile Include="CLASS\HR\AttendanceModel.cs" />
     <Compile Include="CLASS\HR\Employee.cs" />
+    <Compile Include="CLASS\HR\EmployeeModel.cs" />
+    <Compile Include="CLASS\HR\PayrollModel.cs" />
+    <Compile Include="CLASS\Production\MRP.cs" />
     <Compile Include="CLASS\Production\OutputReq.cs" />
+    <Compile Include="CLASS\Production\Performance.cs" />
     <Compile Include="CLASS\Production\PPlan.cs" />
+    <Compile Include="CLASS\Production\SelectPPlan.cs" />
+    <Compile Include="CLASS\Production\WOrder.cs" />
+    <Compile Include="CLASS\Sales\ContractModel.cs" />
+    <Compile Include="CLASS\Sales\SalesMgtModel.cs" />
+    <Compile Include="CLASS\Sales\SalesPlanModel.cs" />
     <Compile Include="CLASS\Standard\BOM.cs" />
     <Compile Include="CLASS\Standard\Company.cs" />
     <Compile Include="CLASS\Standard\Cost.cs" />
@@ -284,11 +297,89 @@
     <Compile Include="CLASS\WarePurchase\Stock.cs" />
     <Compile Include="CLASS\WarePurchase\TPOrder.cs" />
     <Compile Include="DAO\OraMgr.cs" />
-    <Compile Include="UI\Common\Employee.cs">
+    <Compile Include="Popup\AddressPopup.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\Common\Employee.designer.cs">
-      <DependentUpon>Employee.cs</DependentUpon>
+    <Compile Include="Popup\AddressPopup.designer.cs">
+      <DependentUpon>AddressPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\CompanyPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup\CompanyPopup.designer.cs">
+      <DependentUpon>CompanyPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\DepartmentPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup\DepartmentPopup.designer.cs">
+      <DependentUpon>DepartmentPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\EmployeePopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup\EmployeePopup.designer.cs">
+      <DependentUpon>EmployeePopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\OrderPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup\OrderPopup.designer.cs">
+      <DependentUpon>OrderPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\sOrderPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popup\sOrderPopup.designer.cs">
+      <DependentUpon>sOrderPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\CompanyPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\CompanyPOP.designer.cs">
+      <DependentUpon>CompanyPOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\EmployeePOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\EmployeePOP.designer.cs">
+      <DependentUpon>EmployeePOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\MaterialPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\MaterialPOP.designer.cs">
+      <DependentUpon>MaterialPOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\OperationPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\OperationPOP.designer.cs">
+      <DependentUpon>OperationPOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\OutputReqPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\OutputReqPOP.designer.cs">
+      <DependentUpon>OutputReqPOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\POrderPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\POrderPOP.designer.cs">
+      <DependentUpon>POrderPOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\WarehousePOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\WarehousePOP.designer.cs">
+      <DependentUpon>WarehousePOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\WOrderPOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\WOrderPOP.designer.cs">
+      <DependentUpon>WOrderPOP.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\Cost\CostAnalysisUI.cs">
       <SubType>UserControl</SubType>
@@ -302,38 +393,32 @@
     <Compile Include="UI\Cost\CostCalculUI.Designer.cs">
       <DependentUpon>CostCalculUI.cs</DependentUpon>
     </Compile>
-    <Compile Include="UI\Cost\ManuCostUI.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UI\Cost\ManuCostUI.Designer.cs">
-      <DependentUpon>ManuCostUI.cs</DependentUpon>
-    </Compile>
     <Compile Include="UI\EmailUI.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UI\EmailUI.Designer.cs">
       <DependentUpon>EmailUI.cs</DependentUpon>
     </Compile>
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UI\HR\AttendanceUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\HR\AttendanceUI.Designer.cs">
+    <Compile Include="UI\HR\AttendanceUI.designer.cs">
       <DependentUpon>AttendanceUI.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\HR\EmployeeUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\HR\EmployeeUI.Designer.cs">
+    <Compile Include="UI\HR\EmployeeUI.designer.cs">
       <DependentUpon>EmployeeUI.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\HR\PayrollUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\HR\PayrollUI.Designer.cs">
+    <Compile Include="UI\HR\PayrollUI.designer.cs">
       <DependentUpon>PayrollUI.cs</DependentUpon>
     </Compile>
-    <Compile Include="Main\Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UI\LoginUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -391,19 +476,19 @@
     <Compile Include="UI\Sales\ContractUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\Sales\ContractUI.Designer.cs">
+    <Compile Include="UI\Sales\ContractUI.designer.cs">
       <DependentUpon>ContractUI.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\Sales\SalesMgtUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\Sales\SalesMgtUI.Designer.cs">
+    <Compile Include="UI\Sales\SalesMgtUI.designer.cs">
       <DependentUpon>SalesMgtUI.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\Sales\SalesPlanUI.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UI\Sales\SalesPlanUI.Designer.cs">
+    <Compile Include="UI\Sales\SalesPlanUI.designer.cs">
       <DependentUpon>SalesPlanUI.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\SplashUI.cs">
@@ -497,8 +582,47 @@
     <Compile Include="Utility\Method\MessageBox_.cs" />
     <Compile Include="Utility\Method\TextBox_.cs" />
     <Compile Include="Utility\Print\Printing.cs" />
-    <EmbeddedResource Include="UI\Common\Employee.resx">
-      <DependentUpon>Employee.cs</DependentUpon>
+    <EmbeddedResource Include="Popup\AddressPopup.resx">
+      <DependentUpon>AddressPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\CompanyPopup.resx">
+      <DependentUpon>CompanyPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\DepartmentPopup.resx">
+      <DependentUpon>DepartmentPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\EmployeePopup.resx">
+      <DependentUpon>EmployeePopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\OrderPopup.resx">
+      <DependentUpon>OrderPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\sOrderPopup.resx">
+      <DependentUpon>sOrderPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\CompanyPOP.resx">
+      <DependentUpon>CompanyPOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\EmployeePOP.resx">
+      <DependentUpon>EmployeePOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\MaterialPOP.resx">
+      <DependentUpon>MaterialPOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\OperationPOP.resx">
+      <DependentUpon>OperationPOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\OutputReqPOP.resx">
+      <DependentUpon>OutputReqPOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\POrderPOP.resx">
+      <DependentUpon>POrderPOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\WarehousePOP.resx">
+      <DependentUpon>WarehousePOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\WOrderPOP.resx">
+      <DependentUpon>WOrderPOP.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\Cost\CostAnalysisUI.resx">
       <DependentUpon>CostAnalysisUI.cs</DependentUpon>
@@ -506,20 +630,8 @@
     <EmbeddedResource Include="UI\Cost\CostCalculUI.resx">
       <DependentUpon>CostCalculUI.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UI\Cost\ManuCostUI.resx">
-      <DependentUpon>ManuCostUI.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="UI\EmailUI.resx">
       <DependentUpon>EmailUI.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UI\HR\AttendanceUI.resx">
-      <DependentUpon>AttendanceUI.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UI\HR\EmployeeUI.resx">
-      <DependentUpon>EmployeeUI.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UI\HR\PayrollUI.resx">
-      <DependentUpon>PayrollUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -531,6 +643,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UI\HR\AttendanceUI.resx">
+      <DependentUpon>AttendanceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HR\EmployeeUI.resx">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HR\PayrollUI.resx">
+      <DependentUpon>PayrollUI.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\LoginUI.resx">
       <DependentUpon>LoginUI.cs</DependentUpon>
     </EmbeddedResource>

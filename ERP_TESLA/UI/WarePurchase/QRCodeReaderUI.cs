@@ -12,17 +12,23 @@ using System.Windows.Forms;
 using ZXing;
 using AForge.Controls;
 using System.Drawing.Imaging;
+using ERP_TESLA.DAO;
+using ERP_TESLA.CLASS.WarePurchase;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
-    public partial class QRCodeReaderUI : Form
+    partial class QRCodeReaderUI : Form
     {
+        List<Input> inputlist;
+        FilterInfoCollection filterInfoCollection;
+        VideoCaptureDevice videoCaptureDevice;
+
+        public List<Input> Inputlist { get => inputlist; set => inputlist = value; }
+
         public QRCodeReaderUI()
         {
             InitializeComponent();
         }
-        FilterInfoCollection filterInfoCollection;
-        VideoCaptureDevice videoCaptureDevice;
 
         private void QRCodeReaderUI_Load(object sender, EventArgs e)
         {
@@ -46,9 +52,9 @@ namespace ERP_TESLA.UI.WarePurchase
             var result = reader.Decode(bitmap);
             if (result != null)
             {
-                textBox1.Invoke(new MethodInvoker(delegate ()
+                tboxValue.Invoke(new MethodInvoker(delegate ()
                 {
-                    textBox1.Text = result.ToString();
+                    tboxValue.Text = result.ToString();
                 }));
             }
             pictureBox1.Image = bitmap;
@@ -60,6 +66,44 @@ namespace ERP_TESLA.UI.WarePurchase
             {
                 if (videoCaptureDevice.IsRunning)
                     videoCaptureDevice.Stop();
+            }
+        }
+
+        private void tboxValue_TextChanged(object sender, EventArgs e)
+        {
+            char divide = '/';
+            //발주번호 / 거래처 / 품번 / 수량
+            string[] data = tboxValue.Text.Split(divide);
+            dtgviewInputAdd.Rows.Add(data);
+        }
+
+        private void dtgviewInputAdd_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
+        {
+            for (int i = 0; i < dtgviewInputAdd.Rows.Count; i++)
+            {
+                if(dtgviewInputAdd.Rows[i].Cells[colMCode.Index].Value != null)
+                {
+                    string MCode = dtgviewInputAdd.Rows[i].Cells[colMCode.Index].Value.ToString();
+                    dtgviewInputAdd.Rows[i].Cells[colMName.Index].Value = OraMgr.Instance.selectMName(MCode);
+                }
+            }
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < dtgviewInputAdd.Rows.Count; i++)
+            {
+                Input input =
+                    new Input(
+                        int.Parse(dtgviewInputAdd.Rows[i].Cells[colPOrder.Index].Value.ToString()),
+                        int.Parse(dtgviewInputAdd.Rows[i].Cells[colCCOde.Index].Value.ToString()),
+                        dtgviewInputAdd.Rows[i].Cells[colMCode.Index].Value.ToString(),
+                        dtgviewInputAdd.Rows[i].Cells[colMName.Index].Value.ToString(),
+                        int.Parse(dtgviewInputAdd.Rows[i].Cells[colAmount.Index].Value.ToString())
+                    );
+                List<Input> inputTemp = new List<Input>();
+                inputTemp.Add(input);
+                this.inputlist = inputTemp;
             }
         }
 

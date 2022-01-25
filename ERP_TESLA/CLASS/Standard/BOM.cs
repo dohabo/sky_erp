@@ -33,6 +33,12 @@ namespace ERP_TESLA.CLASS.Standard
         {
         }
 
+        public BOM(string cmcode, int amount)
+        {
+            this.cmcode = cmcode;
+            this.amount = amount;
+        }
+
         public BOM(string pmcode, string pmname, string cmcode, 
             string cmname, int amount, string cmstandrd, 
             string cmunit)
@@ -93,6 +99,18 @@ namespace ERP_TESLA.CLASS.Standard
                     list[i].cmname,
                     list[i].cmstandrd,
                     list[i].cmunit,
+                    list[i].amount.ToString()
+                });
+            }
+        }
+
+        public void cmbomGridView(List<BOM> list, DataGridView dtgview)
+        {
+            for (int i = 0; i < list.Count; i++)
+            {
+                dtgview.Rows.Add(new string[]
+                {
+                    list[i].cmcode,
                     list[i].amount.ToString()
                 });
             }

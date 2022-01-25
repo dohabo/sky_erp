@@ -27,7 +27,7 @@ namespace ERP_TESLA.Utility.Print
             }
         }
 
-
+        // GridView Data 미리보기
         public void printDoc(object sender, PrintPageEventArgs e, string title, DataGridView dtgviewOrderList, int cnt, int pageNo)
         {
             int dialogWidth = 528;//페이지 전체넓이 printPreviewDialog.Width
@@ -79,7 +79,7 @@ namespace ERP_TESLA.Utility.Print
             }
             startHeight += avgHeight;
 
-            for (i = cnt; i < dtgviewOrderList.RowCount- 1; i++)
+            for (i = cnt; i < dtgviewOrderList.RowCount - 1; i++)
             {
                 startWidth = 10;//다시 초기화
                 for (j = 0; j < dtgviewOrderList.ColumnCount; j++)
@@ -120,6 +120,27 @@ namespace ERP_TESLA.Utility.Print
                     return;
                 }
             }
+        }
+
+        // 화면 전체 페이지 미리보기
+        public void printDoc(object sender, PrintPageEventArgs e, string title, int cnt, int pageNo)
+        {
+            int dialogWidth = 528;//페이지 전체넓이 printPreviewDialog.Width
+            int subTitile = 900; // 소제목 위치
+            e.Graphics.DrawString(title, new Font("Arial", 20, FontStyle.Bold), Brushes.Black, dialogWidth / 2, 40);
+            e.Graphics.DrawString("SKY ERP...", new Font("Arial", 20, FontStyle.Bold), Brushes.Black, subTitile, 40);
+            e.Graphics.DrawString("인쇄일 : " + DateTime.Now.ToString("yyyy/MM/dd"), new Font("Arial", 13), Brushes.Black, subTitile, 80);
+            e.Graphics.DrawString("페이지번호 : " + pageNo, new Font("Arial", 13), Brushes.Black, subTitile, 100);
+            e.Graphics.DrawString("sky erp", new Font("Arial", 20, FontStyle.Bold), Brushes.Black, 1020, 780);
+
+
+            //if (temp % 40 == 0)
+            //{
+            //    // MessageBox.Show("40으로 나눠졋다");
+            //    e.HasMorePages = true;
+            //    pageNo++;
+            //    return;
+            //}
         }
     }
 }

@@ -98,7 +98,7 @@ namespace SKY_ERP
         {
             Thread th = new Thread(new ThreadStart(startSplash));
             th.Start();
-            Thread.Sleep(3000);
+            Thread.Sleep(1000);
             th.Abort();
             login.ShowDialog(); // 로그인 화면
             InitializeComponent();
@@ -304,7 +304,7 @@ namespace SKY_ERP
 
         private void btnManuCost_Click(object sender, EventArgs e)
         {
-            controllView(new ManuCostUI(), UC_NAME_MC);
+            //controllView(new ManuCostUI(), UC_NAME_MC);
         }
 
         private void btnCostResult_Click(object sender, EventArgs e)
@@ -408,6 +408,9 @@ namespace SKY_ERP
             {
                 NoticeMRP noticemrp = new NoticeMRP();
                 noticemrp.ShowDialog();
+                btnHR.Enabled = false;
+                btnCostMgt.Enabled = false;
+                btnStdInfoMgt.Enabled = false;
             }
             else if (dep == "생산")
             {

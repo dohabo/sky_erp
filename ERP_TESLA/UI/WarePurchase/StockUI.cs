@@ -15,6 +15,12 @@ using System.Windows.Forms;
 
 namespace ERP_TESLA.UI.WarePurchase
 {
+/// <summary>
+/// name         : 자재 관리
+/// function     : 현재 재고 확인 및 재고 수불 현황 확인
+/// date of prep : 2022. 01. 03
+/// date of upd  : 
+/// </summary>
     public partial class StockUI : UserControl
     {
         Printing printing = new Printing();
@@ -95,6 +101,16 @@ namespace ERP_TESLA.UI.WarePurchase
 
             List<Stock> stocklist = OraMgr.Instance.selectStock(searchCondition);
             stock.stockAllGridView(stocklist, dtgviewStockList);
+        }
+
+        private void btnmCodeSearch_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btneCodeSearch_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
